@@ -1,0 +1,1 @@
+I generated Word Clouds using Wordle (http://www.wordle.net/) using the text of the app reviews. I created one word cloud from each app's total review text, plus an extra word cloud generated using all of the text from all reviews gathered for all apps.
