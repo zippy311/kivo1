@@ -1,0 +1,31 @@
+Date/Time: 2018-03-20 13:55
+Amazon Alexa
+(0, '0.016*"update" + 0.015*"new" + 0.013*"link" + 0.012*"calling" + 0.012*"give"')
+(1, '0.031*"setup" + 0.024*"screen" + 0.022*"update" + 0.017*"wifi" + 0.015*"new"')
+(2, '0.013*"update" + 0.013*"slow" + 0.011*"time" + 0.010*"phone" + 0.009*"music"')
+
+Insteon for Hub
+(0, '0.027*"update" + 0.017*"camera" + 0.014*"android" + 0.012*"crash" + 0.011*"device"')
+(1, '0.020*"device" + 0.016*"scene" + 0.012*"light" + 0.011*"turn" + 0.009*"time"')
+(2, '0.012*"time" + 0.011*"connect" + 0.010*"product" + 0.009*"device" + 0.006*"one"')
+
+Kevo
+(0, '0.021*"phone" + 0.018*"support" + 0.014*"lock" + 0.013*"great" + 0.013*"android"')
+(1, '0.040*"lock" + 0.017*"phone" + 0.016*"time" + 0.015*"door" + 0.014*"update"')
+(2, '0.009*"love" + 0.009*"lock" + 0.009*"fix" + 0.008*"update" + 0.007*"moto"')
+
+Nest
+(0, '0.022*"thermostat" + 0.020*"great" + 0.015*"love" + 0.014*"temperature" + 0.011*"easy"')
+(1, '0.025*"camera" + 0.019*"update" + 0.015*"notification" + 0.014*"video" + 0.013*"time"')
+(2, '0.023*"home" + 0.022*"away" + 0.013*"update" + 0.011*"thermostat" + 0.011*"phone"')
+
+Philips Hue
+(0, '0.040*"light" + 0.018*"update" + 0.015*"scene" + 0.012*"room" + 0.010*"one"')
+(1, '0.021*"bridge" + 0.019*"connect" + 0.017*"home" + 0.014*"connection" + 0.009*"better"')
+(2, '0.034*"location" + 0.020*"home" + 0.018*"feature" + 0.017*"aware" + 0.011*"away"')
+
+WeMo
+(0, '0.072*"great" + 0.057*"home" + 0.042*"suck" + 0.028*"expected" + 0.022*"nice"')
+(1, '0.021*"device" + 0.016*"time" + 0.014*"switch" + 0.013*"update" + 0.013*"simple"')
+(2, '0.097*"easy" + 0.058*"setup" + 0.036*"great" + 0.023*"love" + 0.021*"change"')
+

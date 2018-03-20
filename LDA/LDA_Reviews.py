@@ -53,7 +53,7 @@ for file in fileList:
     extra = {"app", "amazon", "alexa", "cant", "wont", "didnt", "cant", "ive",
              "get", "would", "should", "could", "even", "insteon", "kevo", "nest",
              "philips", "hue", "wemo", "set", "use", "it", "its", "doesnt", "echo", "using", "hub",
-             "im", "since", "dont", "go", "dot", "want", "work", "works"}
+             "im", "since", "dont", "go", "dot", "want", "work", "works", "way", "need"}
             # "work" is a word that appeared in almost every topic. While the word might be useful,
             #  it might be worthwhile to see what other words will show up if "work" is excluded
 
@@ -85,7 +85,7 @@ for file in fileList:
 
     # Running and Trainign LDA model on the document term matrix.
     #ldamodel = Lda(doc_term_matrix, num_topics=3, id2word = dictionary, passes=50)
-    ldamodel = Lda(doc_term_matrix, num_topics=3, id2word = dictionary, update_every=1, passes=20)
+    ldamodel = Lda(doc_term_matrix, num_topics=3, id2word = dictionary, update_every=1, passes=300)
     print(appName[ind])
     outFile.write(appName[ind]+nl)
     LDAResult = ldamodel.print_topics(num_topics=3, num_words=5)
