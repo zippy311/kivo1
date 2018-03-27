@@ -6,8 +6,10 @@ import gensim, bz2
 from gensim import corpora
 import datetime
 
-fileList = []
 nl="\n"
+noPasses=100
+print("Number of Passes: ", noPasses, nl)
+fileList = []
 dt = datetime.datetime.now()
 dtString = "Date/Time: " + dt.strftime("%Y-%m-%d %H:%M")
 
@@ -15,6 +17,8 @@ outTitle = "LDA_Results_"+ dt.strftime("%Y-%m-%d_%H-%M") + ".txt"
 
 outFile = open(outTitle, 'w')
 outFile.write(dtString+nl)
+noPassString="Number of Passes: " + str(noPasses)
+outFile.write(noPassString+nl)
 
 file0 = open('AmazonAlexa_PRT_11-27-17-2.txt', 'r', encoding="ANSI")
 file1 = open('InsteonHub_PRT_11-27-17-2.txt', 'r', encoding="utf-8")
@@ -22,6 +26,7 @@ file2 = open('Kevo_PRT_11-27-17-2.txt', 'r', encoding="ANSI")
 file3 = open('Nest_PRT_11-27-17-2.txt', 'r', encoding="utf-8")
 file4 = open('PhilipsHue_PRT_11-27-17.txt', 'r', encoding="utf-8")
 file5 = open('WeMo_PRT_11-27-17.txt', 'r', encoding="utf-8")
+file6 = open('AllReviews_3-22-18.txt', 'r', encoding="utf-8")
 
 fileList.append(file0)
 fileList.append(file1)
@@ -29,8 +34,9 @@ fileList.append(file2)
 fileList.append(file3)
 fileList.append(file4)
 fileList.append(file5)
+fileList.append(file6)
 
-appName = ["Amazon Alexa", "Insteon for Hub", "Kevo", "Nest", "Philips Hue", "WeMo"]
+appName = ["Amazon Alexa", "Insteon for Hub", "Kevo", "Nest", "Philips Hue", "WeMo", "All Apps"]
 ind = 0
 for file in fileList:
     review_text = []
@@ -85,10 +91,10 @@ for file in fileList:
 
     # Running and Trainign LDA model on the document term matrix.
     #ldamodel = Lda(doc_term_matrix, num_topics=3, id2word = dictionary, passes=50)
-    ldamodel = Lda(doc_term_matrix, num_topics=3, id2word = dictionary, update_every=1, passes=300)
+    ldamodel = Lda(doc_term_matrix, num_topics=20, id2word = dictionary, update_every=1, passes=noPasses)
     print(appName[ind])
     outFile.write(appName[ind]+nl)
-    LDAResult = ldamodel.print_topics(num_topics=3, num_words=5)
+    LDAResult = ldamodel.print_topics(num_topics=20, num_words=10)
     for topic in LDAResult:
         try:
             print(topic)
@@ -107,4 +113,5 @@ file2.close()
 file3.close()
 file4.close()
 file5.close()
+file6.close()
 outFile.close()
