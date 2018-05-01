@@ -59,7 +59,10 @@ for file in fileList:
     extra = {"app", "amazon", "alexa", "cant", "wont", "didnt", "cant", "ive",
              "get", "would", "should", "could", "even", "insteon", "kevo", "nest",
              "philips", "hue", "wemo", "set", "use", "it", "its", "doesnt", "echo", "using", "hub",
-             "im", "since", "dont", "go", "dot", "want", "work", "works", "way", "need"}
+             "im", "since", "dont", "go", "dot", "want", "work", "works", "worked", "working", "way",
+             "need", "well", "make", "thing", "up", "one", "bit", "able", "like", "got", "seems", "also",
+             "ever", "cannot", "going", "goes", "really", "used", "anymore", "0", "1", "2", "3", "4", "5", "6",
+              "7", "8", "9", "10", "all", "needs", "u", "are", "otherwise", "am", "every", "still"}
             # "work" is a word that appeared in almost every topic. While the word might be useful,
             #  it might be worthwhile to see what other words will show up if "work" is excluded
 
@@ -69,11 +72,12 @@ for file in fileList:
         extra_free = " ".join([i for i in stop_free.lower().split() if i not in extra])
         punc_free = ''.join(ch for ch in extra_free if ch not in exclude)
         e2 = " ".join([i for i in punc_free.lower().split() if i not in extra])
+        e3 = " ".join([i for i in e2.lower().split() if i not in stop])
         #sf2 = " ".join([i for i in punc_free.split() if i not in stop])
 
         #punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
         try:
-            normalized = " ".join(lemma.lemmatize(word) for word in e2.split())
+            normalized = " ".join(lemma.lemmatize(word) for word in e3.split())
         except UnicodeDecodeError:
             print("Error")
         return normalized
