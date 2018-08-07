@@ -1,0 +1,21 @@
+Tile
+1-star reviews: 398
+(0, '0.012*"phone" + 0.010*"battery" + 0.008*"day" + 0.008*"bluetooth" + 0.008*"support" + 0.008*"time" + 0.006*"find" + 0.006*"device" + 0.006*"key" + 0.006*"useless"')
+(1, '0.028*"phone" + 0.016*"never" + 0.015*"tile" + 0.013*"connect" + 0.011*"time" + 0.011*"battery" + 0.011*"find" + 0.009*"location" + 0.009*"ring" + 0.009*"useless"')
+(2, '0.031*"phone" + 0.018*"key" + 0.018*"tile" + 0.017*"find" + 0.014*"money" + 0.011*"waste" + 0.010*"time" + 0.010*"battery" + 0.009*"new" + 0.009*"bluetooth"')
+2-star reviews: 200
+(0, '0.020*"bluetooth" + 0.012*"battery" + 0.011*"find" + 0.009*"wallet" + 0.008*"last" + 0.007*"connect" + 0.007*"location" + 0.007*"phone" + 0.006*"tile" + 0.006*"key"')
+(1, '0.037*"phone" + 0.016*"find" + 0.013*"battery" + 0.013*"time" + 0.011*"tile" + 0.010*"connect" + 0.010*"never" + 0.007*"ring" + 0.007*"key" + 0.006*"device"')
+(2, '0.018*"find" + 0.017*"key" + 0.015*"phone" + 0.010*"tile" + 0.009*"time" + 0.009*"ring" + 0.009*"bluetooth" + 0.008*"year" + 0.008*"android" + 0.006*"found"')
+3-star reviews: 202
+(0, '0.025*"phone" + 0.016*"time" + 0.012*"ring" + 0.012*"tile" + 0.011*"key" + 0.010*"battery" + 0.010*"good" + 0.009*"bluetooth" + 0.009*"location" + 0.008*"great"')
+(1, '0.015*"key" + 0.013*"bluetooth" + 0.012*"great" + 0.012*"find" + 0.010*"battery" + 0.009*"phone" + 0.007*"range" + 0.007*"product" + 0.007*"lost" + 0.006*"new"')
+(2, '0.035*"phone" + 0.019*"tile" + 0.016*"time" + 0.014*"find" + 0.010*"battery" + 0.008*"ring" + 0.007*"open" + 0.007*"great" + 0.007*"new" + 0.006*"update"')
+4-star reviews: 335
+(0, '0.024*"phone" + 0.018*"great" + 0.016*"good" + 0.014*"wish" + 0.013*"ring" + 0.013*"key" + 0.011*"love" + 0.010*"time" + 0.009*"location" + 0.009*"louder"')
+(1, '0.029*"great" + 0.024*"find" + 0.023*"time" + 0.015*"key" + 0.013*"tile" + 0.012*"phone" + 0.010*"location" + 0.009*"sometimes" + 0.009*"bluetooth" + 0.007*"keep"')
+(2, '0.020*"key" + 0.016*"phone" + 0.015*"battery" + 0.013*"wish" + 0.010*"find" + 0.010*"helpful" + 0.009*"ring" + 0.009*"louder" + 0.007*"great" + 0.006*"close"')
+5-star reviews: 1305
+(0, '0.058*"great" + 0.012*"time" + 0.010*"product" + 0.010*"wish" + 0.009*"key" + 0.009*"saved" + 0.008*"lost" + 0.008*"bluetooth" + 0.008*"range" + 0.007*"buy"')
+(1, '0.037*"find" + 0.033*"key" + 0.026*"phone" + 0.023*"awesome" + 0.019*"time" + 0.019*"easy" + 0.017*"great" + 0.016*"useful" + 0.015*"good" + 0.014*"wallet"')
+(2, '0.049*"love" + 0.044*"key" + 0.021*"best" + 0.017*"time" + 0.016*"phone" + 0.016*"life" + 0.015*"always" + 0.013*"find" + 0.012*"wallet" + 0.012*"lose"')

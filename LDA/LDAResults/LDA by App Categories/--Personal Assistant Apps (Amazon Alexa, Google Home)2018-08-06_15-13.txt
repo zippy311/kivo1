@@ -1,0 +1,4 @@
+--Personal Assistant Apps (Amazon Alexa, Google Home)
+(0, '0.025*"music" + 0.019*"love" + 0.018*"play" + 0.014*"home" + 0.012*"good" + 0.010*"great" + 0.007*"feature" + 0.006*"phone" + 0.006*"device" + 0.006*"speaker"')
+(1, '0.035*"home" + 0.024*"device" + 0.012*"voice" + 0.009*"list" + 0.009*"mini" + 0.008*"control" + 0.007*"add" + 0.007*"say" + 0.007*"account" + 0.007*"setting"')
+(2, '0.030*"chromecast" + 0.020*"cast" + 0.019*"device" + 0.018*"phone" + 0.017*"update" + 0.015*"time" + 0.014*"tv" + 0.012*"connect" + 0.012*"screen" + 0.010*"wifi"')

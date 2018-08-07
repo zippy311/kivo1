@@ -1,0 +1,279 @@
+--Amazon Alexa
+
+> cor.test(dm$Stars, dm$Positive)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Positive
+t = 16.924, df = 2086, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3091808 0.3846335
+sample estimates:
+      cor 
+0.3474695 
+
+> cor.test(dm$Stars, dm$Negative)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Negative
+t = 16.301, df = 2086, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2975358 0.3736518
+sample estimates:
+      cor 
+0.3361426 
+
+--ecobee
+
+> cor.test(dm$Stars, dm$Positive)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Positive
+t = 14.112, df = 1710, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2798731 0.3647604
+sample estimates:
+      cor 
+0.3229661 
+
+> cor.test(dm$Stars, dm$Negative)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Negative
+t = 16.79, df = 1710, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3347922 0.4161589
+sample estimates:
+      cor 
+0.3762006 
+
+--Google Home
+
+> cor.test(dm$Stars, dm$Positive)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Positive
+t = 15.929, df = 2438, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2706451 0.3425381
+sample estimates:
+      cor 
+0.3070296 
+
+> cor.test(dm$Stars, dm$Negative)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Negative
+t = 17.405, df = 2438, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2966785 0.3672832
+sample estimates:
+      cor 
+0.3324466 
+
+--Insteon for Hub
+
+> cor.test(dm$Stars, dm$Positive)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Positive
+t = 9.348, df = 806, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2491547 0.3736603
+sample estimates:
+      cor 
+0.3127504 
+
+> cor.test(dm$Stars, dm$Negative)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Negative
+t = 9.7267, df = 806, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2609768 0.3844880
+sample estimates:
+      cor 
+0.3241129 
+
+--Kevo
+
+> cor.test(dm$Stars, dm$Positive)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Positive
+t = 9.041, df = 988, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2178716 0.3329952
+sample estimates:
+      cor 
+0.2764247 
+
+> cor.test(dm$Stars, dm$Negative)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Negative
+t = 15.767, df = 988, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3971471 0.4967860
+sample estimates:
+      cor 
+0.4483582 
+
+--Nest
+
+> cor.test(dm$Stars, dm$Positive)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Positive
+t = 14.796, df = 1767, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2899019 0.3728575
+sample estimates:
+      cor 
+0.3320215 
+
+> cor.test(dm$Stars, dm$Negative)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Negative
+t = 19.451, df = 1767, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3808013 0.4576030
+sample estimates:
+      cor 
+0.4199538 
+
+--Philips Hue
+
+> cor.test(dm$Stars, dm$Positive)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Positive
+t = 13.766, df = 1987, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.2544099 0.3346743
+sample estimates:
+      cor 
+0.2950625 
+
+> cor.test(dm$Stars, dm$Negative)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Negative
+t = 16.904, df = 1987, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3155432 0.3924141
+sample estimates:
+      cor 
+0.3545776 
+
+--SmartThings (Samsung Connect)
+
+> cor.test(dm$Stars, dm$Positive)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Positive
+t = 19.32, df = 2038, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3561298 0.4295127
+sample estimates:
+      cor 
+0.3934478 
+
+> cor.test(dm$Stars, dm$Negative)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Negative
+t = 20.511, df = 2038, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3770160 0.4489857
+sample estimates:
+      cor 
+0.4136469 
+
+--Tile
+
+> cor.test(dm$Stars, dm$Positive)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Positive
+t = 18.324, df = 2438, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3125505 0.3823209
+sample estimates:
+      cor 
+0.3479173 
+
+> cor.test(dm$Stars, dm$Negative)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Negative
+t = 21.034, df = 2438, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3578024 0.4249921
+sample estimates:
+      cor 
+0.3919197 
+
+--WeMo
+
+> cor.test(dm$Stars, dm$Positive)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Positive
+t = 17.064, df = 2032, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3154149 0.3914642
+sample estimates:
+      cor 
+0.3540246 
+
+> cor.test(dm$Stars, dm$Negative)
+
+	Pearson's product-moment correlation
+
+data:  dm$Stars and dm$Negative
+t = 21.641, df = 2032, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.3967897 0.4674589
+sample estimates:
+      cor 
+0.4327889 
