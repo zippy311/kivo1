@@ -1,4 +1,0 @@
---Misc. Specific Device Control (Kevo, Philips Hue, Tile)
-(0, '0.021*"lock" + 0.017*"phone" + 0.016*"android" + 0.016*"update" + 0.010*"device" + 0.010*"support" + 0.010*"time" + 0.009*"issue" + 0.007*"good" + 0.007*"door"')
-(1, '0.035*"light" + 0.013*"location" + 0.013*"update" + 0.012*"home" + 0.011*"scene" + 0.011*"turn" + 0.011*"feature" + 0.010*"room" + 0.009*"better" + 0.008*"bulb"')
-(2, '0.030*"key" + 0.026*"phone" + 0.025*"find" + 0.021*"great" + 0.018*"time" + 0.014*"love" + 0.013*"tile" + 0.009*"battery" + 0.008*"wallet" + 0.008*"ring"')

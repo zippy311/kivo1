@@ -1,0 +1,70 @@
+I used to like this app. Insteon has come a long way since I bought in near the beginning. The problem is the lack of support for older Insteon established devices. IRLinc, RemoteLinc, mini-Remote... Oh and of course the non-standard look, feel and operation of the app itself. Oh and what about about guest account access?! Oh and every banking app I use has fingerprint ID yet this silly app requires me to type in my password constantly, what??!!!
+This is one of the worst apps I have ever tried to use. I'm stuck with it because of an investment in home automation hardware, but would not wish this frustrating interface upon my worst enemy. How the engineers at Insteon can let this be their legacy is beyond comprehension. Here's an idea: hire one engineer from either Apple or Google, at whatever cost, and let them lead the team...
+Is this abondonware? It had been 12 months since the last update, and it still needs a complete overhaul. It doesn't matter that the switches are dual-band if you don't have a modern app to setup and control them. This app is a major detriment to the what is left of the brand and is hurting sales. Please save it.
+Installed the app on both my Galaxy S9+ and my Galaxy tablet. It takes care of the basics of my Insteon devices. I can even control my Insteon devices with Alexa. Adding new devices is fairly easy. I have 4 Insteon cameras. When I try to view them with the app, I only have a small screen to view. I can't stretch the picture or put it in full screen mode. This is frustrating on a phone, when you have this small window to peek in on home. The app needs modernizing. It's the same app I've been using for years. Time for an update!
+Outdated and not smart. Windows 10 app at least let's you manage multiple houses. With this crappy app, you have to have two accounts. I'm wondering if the company is going out of business, because it appears there is no urgency to improve this any further. Very sad given the potential. Choose a different platform - too late for me.
+don't rely on the water sensor. Didn't notify me or my wife phone of leak in basement. Had almost an inch of water without ANY notice. THANKS! Even with the latest update, You STILL can't control anything until you manually poll the config from the hub, otherwise it'll loop back every time you try to control a device. Every time you open the app it should poll the hub. FRUSTRATING. Also the hub runs incredibly hot. Had to drill vent holes to keep the unit from cooking itself and locking up
+Still does not see keypads. Even after updating app and hub. Updating hub requires manually recording, deleting, and reinstalling every device. Otherwise it's great. But I wanted to program 4 button keypad to control a scene and you may not. Latest update now schedules do not run.
+I bought an Insteon hub & 2 lamp modules cus I was having trouble with my X10. The Insteon devices/technology work fine. But the devices are so expensive and the android app is so bad I decided to go back to X10. I fixed what was wrong with my X10 and I'm back up running (for the most part).
+Incredibly poor design. Setup and use is so inconvenient and illogical it's like they tried to make it awful. If only I didn't already have insteon devices. If you haven't purchased hardware yet, stay away from insteon. Update 5/2018 App is still awful. Do not buy this product!
+New update brings back old problems.. Slow to respond.. Have to restart app multiple times to get it to work. You guys should just give it up.. U r horrible. Tech support sux... Slow to sync. Must refresh app to connect.. What happened?
+This app stinks! I'm not sure what's up with Insteon, but it's not like it used to be. We can never use the cameras and I honestly don't trust this brand to be reliable any longer. Waste of money and time trying to get anything to work. Ready to find new.
+As usual consumers would prefer a more straightforward and easy to use app but this gets the job done. A somewhat less than optimal behavior is my Hub broke and when I bought a new one I had to delete my insteon account and set up all the devices again which was not too hard but somewhat annoying nevertheless.
+This app is in need of an entire overhaul. "Chintzy" is a word I'd use to describe it. The app constantly logs me out even though I choose the option to remember me, it constantly fails to connect to certain devices, and the look and feel leaves much to be desired. Please overhaul this app.
+App doesn't work hub Is connected app won't connect... won't let me scan QR code to add hub just says it's no connected hub.. been fighting with this for a week
+This app is next to useless. It's fine as long as all of the hardware good. But if your hub dies, so does EVERYTHING you've programmed into it. This app remembers nothing!!! Really!?!
+The Insteon hub actually works great. Unfortunately the Insteon app is close to worthless. Scheduled scenes never worked on their own. You have to manually activate and deactivate scenes. As this is the only app I'm aware of for the Insteon hub, I'll have to send it back.
+App is out of date and now useless for remote use, defeating the whole point of my security install. Loved the system but now feel totally ripped off. FIX IT.
+Highly desired functions from the app are not available, like turning the thermostat to Auto does not work for all Insteon Thermostats. Their own product, and only get excuses from support. Have a garage I/O? It tells you on/off not open or closed. No custom notification sound (available 2+ yrs ago on Windows Mobile) so when one comes, no front screen pop up on Oreo, and have to dig through everything else as no clue what it was.
+Terrible. I have a huge investment in insteon, and they constantly abandon their products. They will then tell you to upgrade, and give you a coupon, which almost makes it be the Amazon price. This app is supposed to setup devices that houselinc can no longer handle (what is up with that), yet if had just crashed on me multiple times. Somehow they disabled the android report popup. Nice way of making sure that you never get the play store on their bad side. And here fairy tales taught us not to sweep things under the rug.
+Garbage spend your time looking for something else. Nothing but a headache.
+It's beyond me how a company with such amazing technology okayed this. It doesn't even render completely on my huge phone--it's not like the iOS version isn't pretty either, it's cumbersome AF. Definitely if you want to use an Insteon network or have installed already go for third-party controllers, such as Indigo Pro--although they have as well gone to the dark side...and their apps aren't pretty either but they're customizable somewhat.
+Everytime I use the app I have to re-add my Nest thermostat because it tells me I have no thermostat setup.
+This software is horrible. Hey, insteon, if you guys want to triple your market share then contact me....but this? This sucks.
+App stopped controlling devices for some reason not sure what happened. Third party apps work fine what gives insteon?
+My issue is...its hackable and it seems someone can get your information and know your location and what your looking at in your house...I have random issues with it as well...I hate being spied on..creepy. EH stay "wiretapping" my internet and wifi...it's illigal
+Setting up scenes is terrible. You have to run around and set the levels. Never had to do that with the desktop software. Archaic graphics.
+This app still stuck in 2008 no widgets no landscape orientation it is not optimized for tablet. Extremely outdated.
+The app does the job in a incredibly unproductive way to do it, so many clicks to turn one light or another, IT'S SIMPLE: don't let your backend programmer made your front-end design, hire a designer ASAP!
+Sometimes it works sometimes it doesn't. When it works it's not consistent. Sometimes it works quickly and other times it's painfully slow.
+Still can't get the App to find my hub, I've had no help from the insteon home page or any searches to find out what is going on. I'm really frustrated and I'm probably going to take it back to the store and return it.
+The app logs into account then the hub before opening up the session. So now that the old hub burned out and I got a new one in unable to log into account. Apparently many are burning out from the searches I've done. Avoid this product, it's buggy and slow as well.
+This is the worst app I have on my phone. It constantly loses connection with the hub which almost always is in a null state and doesn't respond. I've seen people on social media complaining about the same or similar problems. App hadn't been updated since late summer 2017??? Right now I wouldn't recommend this app or equipment to anyone. Come on Insteon, get on the ball.
+Hardware is now pretty solid, since prior defects were fixed but software & interface are beyond terrible! Support is non-existent.
+This app is in serious need of a rewrite. While mostly functional, is looks horrible.
+Good app for controlling your devices but can only connect to one hub. If you have two hubs you cannot switch between them like you can do with the Apple app. Wish they would fix this!
+Waaaaaay outdated design. In a serious need for an overhaul. Especially with all the competition now.
+It is Impossible to replace your hub without reconfiguring your entire house.
+New review: app is getting worse and crashing a lot now. Still slow when it does work.
+You need their hub in order to connect to their devices. Such as bad idea. I am returning their ipcams to the store.
+Can't start and configure the app cause my wifi and ethernet are two different networks.
+Keeps popping up annoying disconnect errors. Please make those go away!
+Android 9.0 the thermostat slowly creeps up higher and higher, over 12 hours it went from 68 degrees to 80 degrees!!!!!
+It makes you jump through hoops to get anything done.
+It never works when im away from home which is the point!
+Needs improvement. UI is horrible. Check out the Nest App for pointers.
+The app and hub are complete waste of time and money.
+Works fine but awkward interface. REALLY wish it had +/- xx minutes for the sunrise/sunset program.
+Sucks!!! Wasted my money on Insteon devices which are basically paperweights now!!! Total garbage!!!
+Doesn't even connect. Waste of money. Waste of time.
+So frustrating...no luck setting it up
+My scene icon keeps disappearing..
+A little sluggish but works
+Our old hub quit. Got a new one they sent. ... glad they but new one won't set up.
+Does not link to hub. After long attempts had to give up for good.
+Buggy interface. Does not respect notification settings. Do not disturb? It doesn't care. Turn off notifications for the app? It doesn't care.
+Newest version keeps crashing.
+This has no tech help
+Lack of multiple house support makes the app unusable for vacation homes.
+Won't connect to the hub.
+App never connects.
+Good app for controlling an Insteon hub.
+Terrible
+Excellent
+Love it
+Crashes almost immediately after starting. No issues with the iOS version...
+Poorly designed interface, awkward programming flow, hub broke after a few months of use.
+Loads of potential... But trying to make it overly simple to the harm of functionality...
+(Original post June 2018) For starters, this app is very poorly designed. Since upgrading to the 2245-222 hub, I have not been able to get a schedule to work properly. This is after four calls to "customer support." At this point, I cannot recommend anyone use this app or purchase Insteon products. Updated 08/24/18 - After months of working with Insteon support, issues have still not been resolved. Stay away from Insteon and especially this app.
+Worse than useless; doesn't work with most Insteon devices and completely ignores Android notification settings, flooding you with "invisible" notifications (sound and vibrate) with no visible indication. Obviously not tested at all.
+Don't get Anything From this company, they don't support their products, they will just take your money and your left with thousands in useless hardware

@@ -1,0 +1,461 @@
+Won't allow me to do a lock update. Times out about 1/3rd of the way through it every time. Must have tried bout ten times, so now I'm stuck on the version that the 2nd Gen came with. The lock itself is working great so far. If I could update the lock firmware I would give it a 5. UPDATE: After receiving Android Oreo on my phone I was able to update the firmware on the lock it's still working fine.
+Update: I'm not sure what has happend in the last several months but the app refuses to stay running in the background for both me and my wife's phones, requiring the app to be manually opened every time we use the lock. Everything is updated. Kind of defeats the purpose of an easy access device. I can pull a key out quicker than this whole process. All the instructions, including the online video, showed a calibration process that doesn't seem to exist any more. I dug into the faq's and found a reference to a beta app automatically calibrating so a manual method wasn't needed. I tested the door and the in/out functionality worked. I can only assume the new version no longer needs to calibrate. App is running in the background for me, I did not need to open it for the lock to work. Overall I am satisfied with the performance but the app could be better
+The idea is great but the app needs a ton of improvement. Half the time it can't access my lock. After I do unlock the door, it makes my phone buzz about every 15 seconds for 5 to 10 minutes following with no notification. EDIT: Down to one star because it outright revoked access to my front door lock, thus causing me to be locked out until a family member could unlock the door for me.
+Touch to open stopped working at all with Android P. Actually Android P never detects the door. I still can manage to open my door because I have Kevo Plus. So WiFi is still working, of course... But direct connection between lock and phone is NOT working in Android P. (not that it wasn't bad already in oreo)
+Unfortunately it just doesn't work anymore. I had an apple phone and no issues. I changed to an Android phone and it worked right up till the update. I have tried resetting, reprogramming and nothing. Thank goodness my neighbor had a key because I'm no longer able to get in my house. Going to have to find another company and get rid of this lock.
+Locks the door back at random immediately after I use the real key making me have to use it multiple times, and says door is locked or unlocked on the app but has no effect on door. So basically just use a normal door. Anything more is not nearly as reliable.
+The reason I gave this app 1 star is because the update process takes forever. Way longer than any other smart device that I have ever updated. Also, I hate the fact that I constantly see a key icon in my notification bar. I don't need to see an icon telling me that kevo is running all the time. Of course it's running...it's connected to my WiFi network.
+Rarely works. Most of the time, won't even connect. When it does connect, it takes about 5 times as long as it would to unlock with a key. Shows as unlocked when it's locked, locked when it's unlocked. Frequently gets stuck. And since it's difficult to lock without touching the lock accidentally with your finger (which triggers lock/unlock), using the physical keys isn't practical either. This last complaint is about the hardware, not the app, but worth considering before using it. Would still rate it 1 star even without this hardware problem due to the fact that the app fails so consistently.
+Since the last update, our Kevo is worthless. Resetting it, changing the batteries, checking for updates, and resetting our phones does nothing! It used to only open half the time, now it's become a standard deadbolt because we used the physical key now to get in all the time. Exploring other smart locks now.
+Loved this app at first. But after a few updates, the calibration is off every few days making it hard to lock/unlock my door. It's frustrating when my hands are full, especially when it times out 5+ times before actually unlocking.
+Baldwin and kevo are terrible. I had August before and it worked 95% percent of the time. Baught a new house with Kevo anf Baldwin and it works 10% of the time. Really dissapointed. Fyi, i have the same issue with touching the unit when inserting the key since app doesn't work. Also shows locked when it is not.
+I don't even know where to start. It seems like this lock has some kind of AI, it controls by itself and locks and unlocks the door whenever it feels like it. I have come home to find the door unlocked, same thing in the morning when I'm heading out. I tried to reset the whole thing but it just gets worse. Instead of being a keyless thing, it has become a nightmare that you can't trust. Solution to the problem, remove the batteries and use the actual key, which obliterates the whole point of the app. At this point I can't wait to switch to a schlage keypad.
+The Kevo app was bad as is where it starts forgetting the device even after calibrating it. After the recent update no matter how many times I try to calibrate it, it works when calibrating it but when it comes time to use it, it's as if it was never calibrated. I've tried resetting the lock, taking the battery out and back in but no use. The only way I can use it is by going into the app every time and unlocking it. Even that takes a while to connect. During that time I might as well take my key out and unlock the door. Why spend over $200CDN for a so called smart lock that doesn't even do what its supposed to.
+The Kevo that I currently have has seldom worked satisfactorily. I would say 80% of the time I need to use the physical key. I have stood outside my door for 5 minutes trying to use the app before finally giving up.
+This app doesn't work consistently. I have read that there are others who have problems with it. WHY won't a DEVELOPER gives us some feedback of what to do? Kevo says it needs to be updated but there is no way to do it.
+Really handy for a disabled person. Fumbling with keys is a thing of the past. The only beef I have is that sometimes the app doesn't connect with the lock right away. I have to pull my phone out of my purse and hold it right up to the lock before the lock will recognize it and allow the connection to be made.
+Great app. Most of the negative reviews are from people who installed the lock improperly. You have to take time and careful consideration into aligning your door perfectly for the system to work but once you do it works fantastic
+Kevo is the best thing since sliced bread. The only couple things I would change is the option to start the app with startup of phone, and no charge on out of area unlock. Otherwise, love it!
+App has to be running in the background to use the one touch lock but then persists in buzzing my device every 5 seconds to let me know it's running. No option in the app to turn it off. Only way it turns off is when it crashes, which is everytime I try to apply the update it says my lock needs. What's the opposite of a smart lock?
+I love the locks, they work great. The problem is with the software for the locks. While on the whole, it works most of the time, it still has some issues. The app loses the locks and will not connect if my phone is reset, I have to reopened the app to get the connection again. Kinda defeats the simplicity of it. Please fix this also, it needs to have the Android Wear connection fixed and supported, or the option removed from the app.
+If I could have given kevo less than 1 star I would. Don't waste your money non of the features work right. And the lock it's self is poorly made. Buy any other brand if you want a blue tooth door lock buy any other brand because there is no way it could be as bad and as cheap as kevo.
+Wont pair with device from outside the door! Bought yesterday and installed. The hardware works, although the adapters they provide are hard to fit. But otherwise would work ok. But it wont pair from outside my apartment on other side of door! Kindve a huge problem. Am returning it today to home depot. Dont waste your time on this. Reviews on home depot must be fake, as they are all glowing but complete bs in my experience. - for kevo convert
+This app is not as nice a the app from the apple store. My wife has a iPhone and i have a galaxy. I am the owner she is an administrator however she has access to better features than I and it's more intuitive on iPhone than android. Please fix this.
+Not sure why the Kevo app needs internet access to initialize on start up. Due to storms in the area last night both power and cell service was disrupted. Without network access, I could not start the Kevo app to unlock my door and was stuck driving around until I regained cellular service. Once the app is opened though, I had no problem unlocking the door.
+The whole system is a POS. The lock and Kevo plus hub were included with the smart home package in my new Lennar house. The app is jenky AF, doesn't connect either directly or through the hub consistently and when it does takes a minute or two to activate the lock. When connecting remotely through the hub the app doesn't know the current status of the lock so it isn't trustworthy without visually verifying lock status so what's the point of this connectivity? It's faster and more reliable to use the physical key...there is no point to this entire system.
+Worked beautifully until the latest update. Now I stand out the front of my house tapping the lock and restarting my phone until I am angry enough to go use the key on the other door.
+App gets worse with every update. No longer runs in the background. No longer connects to the lock unless I start the app and push the open button in the app. Luckily some members of my family never update so we can still unlock the door without dropping everything to run the app.
+Avoid this product. No customer support. Does not work as advertised. Once Kwikset gets $200 from you, you are on your own. You are paying outrageous money for a lock that is no better than the $20 lock you are replacing. I've had this lock over 18 months now and it by far the worst experience I've had putting together my smart home.
+Great idea. It works, but it doesn't work when I kill the app after it shows in my notification tray all day. Why do you tell me that it's running by default?
+Since about 3 weeks and since the upgrade to Android Pie, I always (always!) Have to open the app to unlock the door... Using the key is faster and more convenient making this app/door lock absolutely useless and pointless. Tried to reset/recalibrate/etc.nothing changes the fact that I always need to open the app. Note: I made sure that the app wasn't battery optimized to make sure that Android wasn't "killing" the app. - no differences
+Junk. App doesn't work anymore at all. When I emailed informing them of this problem I received a response back saying they don't do support for the app thru the email listed from the app store. What's the point of having the email on the app store then? Good idea, poor execution.
+I've been making my home smart with Alexa, and it's been enjoyable, until I came across this. Having to pair with Bluetooth is ridiculous when even my lightbulbs use wifi for registration. Having a year old high spec phone doesn't seem to be enough to be fully supported by this app I'd like two know the one or two phones that they actually developed for
+Ruined by update now you have to open the app to unlock door. Wrote customer service, they never wrote back
+Lack of supported smartphone, bluetooth connect are extreme slow. Touch to unlock need touch a few time to unlock. Better bring key outside incase it wont unlock. Conclusion, waste of money product.
+almost all aspects of the app work and originally the main circle button worked for locking and unlocking. for the last two months it just keeps saying "searching" and eventually fails every time with "unable to connect to your lock at this time". it does the same for everyone i've provided e-keys to. additionally every time i change out the batteries for some reason i can no longer tap the rose to lock/unlock. im the owner so each time i have to completely reprogram the lock and then manually send out new e-keys. please provide fixes for these annoyances.
+Worked fine up until last update. Now phone will not detect lock. My key fob still works thankfully.. Hoping they fix this issue. If not I'll be going to a different lock.
+Garbage never works can't enter my house with just the app have to use a key cause by the time I connect it via the app I could have been inside . Or by the time I use the touch feature and it let's me in again keys faster have to touch it like 5 times If it works. Now lately it can't even find my lock so no remote unlock I let it sit for 10 minutes to try and find my lock right next to it... nothing.... there are 2 others I know personally that use the same system and say the same damn thing .read the reviews don't buy it ... I'm over it bye
+Something is wrong guys, this use to work fine with my android now it does not. App won't connect to lock at all outside the house and inside it just searches forever until I manually unlock the door, then it finds it and shows status correctly as unlocked but then if I try to unlock it from the app, it just searches again. Worthless!
+Kevo is garbage it will leave you stranded locked out, arms full, phone in pocket. I regretted the day I installed it. Android P also made it worse, as Android will prevent the app from running on "adaptive battery" I'm smashing kevo with a sledge hammer. USELSS.
+Works inconsistently. I had it going pretty well until the last update, but it hasn't opened my door since.
+Won't let Android lock or unlock by touching lock. You have to open the app for it to work. Just started happening the past few months. Was working great until then.
+What a waste of money. Updates won't install, impossible to get support. Ripoff
+My 2 room mates own Samsung S8, they stand at the door waiting for about a minute until the lock responds. I have a Google Pixel 2 XL and it worked a charm for me. One touch and it opened immediately. However, something happened 3 weeks ago and now we can't open the door without using the app. Have started using the key which works fine, but that's besides the point of having the expensive Kevo isn't it? Plus there's only 2 keys so one of us has to open the app up each time. Unhappy with the Kevo right now, but will change my rating to 4 stars if the bugs are fixed.
+Great app, most of the time does a great job. Shouldn't need my location Access and should stop running after the app is closed...gets annoying after awhile.
+I have to restart the app periodically for the bluetooth features to work. Updating the lock from the app is also annoying
+Using Kevo for a year but starting to fear it's too easy to hack. Seen show on tv and a dude litterely unlock the door in 10 min while parked in his car in front of the house. Otherwise this does exactly what it advertising and setup is easy.
+Kevo is a joke, cant believe how difficult it is too register, 40 mins to do update, then i still have to be in the app to open the door. Ridiculous so far
+Had for almost two years. Constantly recalibrating every 2-3 months. Any update seems to throw it out of whack. In the kitchen 8ft away it will throw tje lock if accidently hit, but outside 18 inches away it can't find the frickin lock!
+Like the technology possibilities but my Asus 5Q is an unsupported Android device. I hope they update to support more functionality for more devices.
+Wish I had read the app reviews before I bought this lock. Most of the "bad" reviews are true. I recalibrated three times and the lock won't lock or unlock. Just flash blue a few times. Even when I have the app open Kevo says it's searching the whole time. So I paid 200 dollars for a deadbolt basically.
+Most of the time it's great. When it malfunctions it's an absolute pain!
+Only lollipop (Note4?), not my other BTLE devices? .. Now my Pixel 2 XL and WearOS 2.0 devices are useless without opening the app, waiting, clicking and waiting more. Who do you guys think buys these locks? Early adopters!
+Unfortunately the touch to open feature is a hit and miss. About 1 day each week coming home I find the lock unable to open until I fiddle around with turning bluetooth on and off or restart my phone. All the while standing at my front door. Really still need the physical key as a back up unfortunately. Until the issues are corrected I would classify the product as broken.
+I installed two locks (which seem to work) but I had trouble connecting them to the app with my Pixel 2 XL and Pixel phones. None of the phones in my house can update the locks. Several attempts with my Pixel 2 XL failed after about 20 minutes. The last attempt with that phone seemed to finish but the app immediately popped up an error that my session timed out. Upon connecting again, the app said the update did not work. At that point every effort to update the locks from any phone causes the app to crash out. Now all my phones randomly report a lock state change. The sidewalk interface for these otherwise great locks is absolute garbage and completely kills the user experience.
+Works less than half the time now. App shuts down if you turn Bluetooth off, and doesn't restart if Bluetooth is turned back on, but that doesn't seem to matter because even if you restart the app manually, it still doesn't work. Being for opening of deadbolts & locks, this should be extremely reliable, and it's extremely unreliable, rendering it useless.
+b"Great feature for anyone easily distracted by the chaos if life and the shuffling if kids, work, groceries, etc. To stop be able to secure lock the property. Another cool feature is that you don't even need the key... Under specific orders. Finally, being able to see the activity of kids getting home from school, letting in the dog walker that lost your key while you're on vacation, or just letting your MIL in when she surprised everyone 2 days early. ?? are all time and memory preserving qualities!!!"
+My phone won't connect to the kevo. We have tried uninstalling and reinstalling the app. We have tried disconnecting my phone from the kevo and reconnecting it. We've tried new keys. We've tried disconnecting and reconnecting everyone from the kevo to no avail. Other phones disconnect from the kevo and you have to open your phone, go into the kevo app for it to reconnect to the kevo. About to remove the kevo and return it and find another solution.
+Update: finally paired a phone and got it working.. Or so I thought. I can't pair to the lock anymore. It works almost never when the fob or phone are on my person, I have to hold it right next to the lock. The even better part? If I brush the lock on my way in it will engage itself,but how can it be with my Bluetooth device? How can it be 3 tap to lock when it's just one, and the 3 tap doesn't work alot of the time either. Even when it's working it's so slow and the time out for failure and retries is excruciating. I just end up using my key most of the time. It's looks pretty though. Previous : Phone is bluetooth smart (ready) but my Kevo is Bluetooth stupid. I can't even get to the install section (says it needs my location and locks up). Sure my device says it's not fully supported, great excuse for a poor app. Unfortunately too late to return this junk to the store... And after watching some YouTube videos not even sure if I want to user it as a deadbolt anyway.
+Great keyless entry! Love not having to make keys! Everyone I want to have a key gets an e key! Very convenient. I usually start my app a few seconds when I turn the car off before I get to the door and it connects right away and unlocks the door for me.
+The app is incredibly annoying. While you hardly ever go to it. It will create a notification THAT NEVER GOES AWAY.
+App doesn't start automatically on Android. Doesn't unlock the door anymore. This product is not ready for consumer use. Two stars because it is a good design and free keys.
+I have three Kevo doorlocks. The Bluetooth stopped working in all three. Waste of money and time.
+Since the last update it has issues running in background. Have to Open app to use the lock now. Both on mine and my wife's phones.
+Works great on my nexus 6p. Update. Since the last app update touch to open rarely works on any of my family's phones. Used to work 90% of the time now less thsn 5%. Please fix.
+I am enjoying these locks most these bad review. Are over mostly people using outdated phone. Samsung S9. I havnt had problems only questions on setup.
+Worked good for a week, that's it. Now the app won't start so it's basically just a flashy deadbolt. Will be returning.
+Ever since the last update the app has stopped running in the background, you suddenly have to take your phone out and open the app first. The whole point is so you dont have to take your phone out so it is now pretty much worthless
+Thank you for the update! It works great with my galaxy S8. I'm really enjoying it now! How wonderful this is when I've gone shopping.
+After being away for the entire day, right when i got back home i spent atleast 15min outside trying to unlock my door and in the end i used my key which i opened it in an instant.
+The app and the lock do not work well. There are many times I'm having to wait minutes looking at a flashing ring, and taking up to 10 tries before the lock finally opens. Worst purchase.
+With a Moto Droid Z I can't pair with the gateway, no web interface with the gateway, this app eats battery and is mostly useless. Lennar should stay away from kevo. Should have got a August Lock instead.
+It boggles me that Kevo still hasn't made a compatible Android app. I am house sitting and have to hold my iPad up to the door like a crazy person to get into the house. Just ridiculous. It's 2018.
+I was happy with my kevo lock for all of 3 months now no phones will connect to it at all. The blue light spins and spins and each phone says to make sure we're within range of the lock. I'm probably going to switch smart locks.
+The app keeps silently crashing. When I go to unlock the door, it fails. I open my phone and notice the app is no longer running. I have to manually open the app each time I'm at the door. Not as convenient as expected.
+Says that it has Android Wear (WearOS) support but after a bit of research I see that it only supports the older version of the OS. If you have an updated model, 2.0 and later, it doesn't work.
+Tap to lock/unlock works 1 in a 100 times, tried "calibrating" but can't even get through the calibration process without it failing.
+App doesn't close anymore after sign out. I don't like to leave it running in case I'm close to the door. I'd really like to see a quit button. I'd also like to see some additional configuration allowing the user to decide if they want to support touching the lock or not.
+Seems fine The security questions are terrible. Most are questions I don't even know the answer to
+Opens my door, but it sometimes takes a number of tries before it kicks in.
+After update, when u turn my phone off and back on the app no longer starts up automatically
+With this kevo, I've been stuck outside my home at least 4 times every week. Not recommended.
+The app is inconsistent on finding my lock takes a long time to load even when I'm standing next to the lock.
+Months after release still no support for Note 9. Great app for every other phone but the Note 9. There is not support for this. I will change back to Five Stars once I have support from my phone. Otherwise I have a Smart Lock that I have to use a key.
+Amazing product .. wish it was faster but learned that if im on the administrator screen and touch my door around the key hole it will lock instantly which is just as good. Great job people
+Completely quit working properly. Tried everything. Terrible!
+Doesn't let me update. I have gen 2 and it just doesn't do it. Stuck on the previous update. Please fix!
+This app and function is horrible waste of money and time. Locked out and the app won't allow access to the home.
+DON'T INSTALL THE UPDATE! Now it only unlocks when you open the app on your phone, no more sleep unlocks!
+The app works really well after the Nougat update.
+U guys need to update this app I just got a Note 9 and can't use it
+Deadbolt jam always ...the door latch works smoothly and I still always get this error. And now it never updates, just shows unlocked and the door is locked
+This app causes my lock to lock me out when I close the door behind me.
+Most of the times I have to open the app to unlock it and it's slow to reach the lock
+The app is terrible and the product isn't much better. The app is very slow to connect with the lock even when you are standing right in front of it. It only works across Bluetooth for free if you want to access it with wifi (or Alexa) you have to pay a monthly fee. When it does connect with the lock (finds it) it then might take another 30 seconds to 2 minutes (I've timed it) to unlock the lock or time out. I don't know if the alternative options out there are better but I'd recommended not purchasing this smart lock and save yourself the headaches. As an example the other day I took my son to the park and my wife left the house and locked the door. I didn't bring anything but my phone with me. When I got back I tried to use the app to unlock the door. My son was tired and anyone with kids knows that can be a hassle. Standing right at the door the lock would not connect (yes the batteries are fine and Bluetooth was on) we were stuck outside! Not reliable! not worth it!
+Overall it's good. There are certain issues though with identifying the phone location right after exiting the door which is understandable but probably can be improved.
+Keeps crashing. Have to restart the app every time I want to use the door.
+My wife has parkinson's disease this app along with the lock works every time on my android phone and makes it very easy for my wife to use
+Just stopped working, continuously force closes rendering the app unusable
+Does not startup with phone anymore . Even though its listed as a startup app . Will not unlock door if not started very aggervating
+Logs out or turns off at most inconvenient times
+Kevo plus ??? Why would I want more of an app that works half assed.
+Junk tech, junk app, the whole system is unreliable. Returning this POS.
+Love it. Super convenient especially when you have roommates come and go every couple months.
+Be warned....This App is junk....the only thing that works are the mechanical functions on the lock itself....
+Great concept inconsistent when it comes to unlocking a door, now since I have upgraded to the note 9 the application is not compatible.
+App will not stop running after being opened, I have to go into settings to force stop, other then that it's a great app!!
+I have so many issue with this product...
+I have to get my phone out and open the app just to get in my house now. Since update
+Works every time. I haven't had any issues with it. Love it.
+Used to be fine, but now serious running in the background and I have to open the app to unlock. Makes the lock far less usable.
+Ever since the android P update the app will not unlock in the background. I had to open up the app for the touch to unlock feature to work at all.
+Crashing on my pixel, can't open it!
+Only bummer is to be on wifi is another 100 bucks
+Quit working with most recent Android release
+App will never update and I typically have to go into my phone and open the app for it to unlock my door.
+Touch to open not working since last update, Galaxy s8+
+Sucks good luck if you get locked out
+A little lag in connection time
+Keeps giving error and closing app
+Kevo was a great lock, but since the June 2018 update app/lock does not work as they promised
+Doesn't work. Last version worked a bit but this one doesn't seem to work at all.
+The app keeps running even when i close the app. The only way it'll stop is if I uninstall it
+Very buggy, almost never works correctly.
+Simple to use and very straightforward. Great for piece of mind since you can check your lock from anywhere.
+App sucks plain and simple. I can not get out to work on a consistent basis
+Could not pair, just keep saying error
+Unable to use with Note 9
+Unlock via touch is somehow magically working again. WiFi is now working as well.
+Very minimal integrations. Buggy app. Cannot run updater on android
+No longer works after updating to Android Pie
+Have to say, this app is good. Been using it a few days and I really enjoy it. Very convenient.
+This works well with a working device, no issues! Currently using s7edge oreo
+Es buena pero se demora para actuar
+No longer works with Android 9. Just working as a deadbolt.
+Does not work!!
+Does everything you'd want and more. Integration a snap.
+Great app when it works which is only about 20 percent of the time. Need to make it more reliable.
+Its nice that it will unlock the door while phone is still im your pocket
+IT DOESN'T WORK!!!
+The app works well with the s9
+Does what it is supposed to do!
+Poorly setup for updates
+Coolest thing since sliced bread
+The app works great - no problems so far.
+Lock won't show up on the app after key was renewed
+Works about 20% of the time..
+I love my Kevo lock. It works very well.
+Works most of the time
+Works as advertised.
+Can't complaint about the app or the system so far.
+Love it just i want to know how use smartwatch
+Great app. Easy to use and set up.
+Best thing ever
+Does work with Samsung Note 9
+Works as expected
+Works as expected
+I like it
+Works well
+So far, works great!
+The Kevo works perfectly.
+Great app, very useful
+Does not work consistently
+The app is really cool
+Opens with just a touch!
+Very simple to use.
+Great app!
+Love this lock!
+Super convenient!
+Very practical!
+Great thanks
+Works good.
+Love it!
+Great job
+Great device
+Its good
+Fast and easy
+Very unique
+Great
+Awesome
+Great
+Awesome
+Love it
+Gets worse with every update! I now have to take the phone out of my pocket & hold it up to the lock. No different than using a key except this lock cost $200 not $20, it's a complete rip-off. New update now has persistent key icon cluttering up the notification bar with no way to get rid of it. It's completely unnecessary and bothersome!
+The lock almost never works without selecting the annoying ever-present notification which then opens the app, loads the lock and then press the button to unlock it. Pointless! That takes so much more time than just using a key. If the touchless feature won't work, at least add a one-touch widget or button functionality in IFTTT. Otherwise, this is a useless lock that costs 10 times that of a normal lock.
+My new Galaxy S9 reports that my Kevo app is causing battery drain. I deleted the app and now my battery is great. The Kevo key fobs don't work. We are very regretful of having purchased a Kevo lock! We are now using a key to open the door. Pretty expensive lock to be reduced to keys again.
+It was a rough time getting it to work at first but after it was set up properly it works great...although you have to have your phone with you. There are minor issues i.e. of you brush the lock and your phone is within 4-5 meters it will engage the lock or vise versa. Great battery life on the locking unit itself which is a relief after our last one. All in all a good product. However, I need to do some more research into security and hacking into the program via your phone.
+The app itself is good, not great. The real miss here comes with the malfunctioning device and lack of support from Kevo. My unit has been reset and recalibrated with my smartphones multiple times, yet only works MAYBE 25% of the time. I've reached out to support from Kevo, but have received zero response form them over the past year or so.
+This is the app with the most bugs I've ever had. Yes you can get rid of the constant notification, but that gets rid of ALL notifications. Won't update the software, just get an error message when I follow the steps and hold the phone against the lock. Cannot find any way to impair my Nest thermostat now every time the door is unlocked, I get no less than 8 notifications asking of I want to change my status to HOME. Horrible, buggy app. Can't really do anything cause I'm in for +$300 at this point. Please fix?
+Lock keeps getting worse. Haven't been able to update it for months now. I have tried on multiple devices but the update process keeps failing. Phone keeps randomly vibrating when the door is unlocked. Have to kill the app to get it to stop. Turning off notifications does not help. It this does not get fixed soon, I will be throwing this lock in the trash
+More and more frustrating to use.. My Hilton Honors app turns on when I'm trying to access my digital key??? Keeps turning on not allowing me to use the features of Kevo! Looks like an update needs to happen for this software glitch
+The Kevo came preinstalled in my home, so I'm glad I didn't select this lock and pay cash for it. Barely got the device to pair after tons of resets and many attempts, then the lock won't update when it keeps telling me to. I can sometimes connect to the lock, but even when I click "lock" and the app says that it's locked, it is definitely NOT locked.
+Used to work in my pocket, now I have to take phone out and sometimes manually open through app instead of it working from background. Still shows running in background so why? Annoying. Have recalibrated and everything but makes no difference.
+Lock battery drains too fast. Tried to update lock software for weeks and update fails after 20 minutes. Now lock doesnt work. Have tried to uninstall and reinstall lock amd app multiple times. Lock and app is a 200.00 piece of garbage.
+Yikes what a horrible app! They force you to run it all the time - for what? To unlock the door I have to run the app and keep it on the screen until the whole process is finished. An electronic lock should be convenient - hard to imagine a less convenient app.
+No problems previously but that has all changed over there past few months. Very disappointed at this time. Lock has become unreliable and have been locked out if my house.
+Took forever to finally get it to pair, now that it's paired it keeps telling me to update the lock. When I try it fails every time. The lock works by touch maybe 1 out of 10 times, and would be faster to use the key.
+The touch feature never works, once app is open phone keeps vibrating even after app is shut down! Stay away from this lock so disappointed! I thought it would be the best since they have been around the longest, I was so wrong. On the new iPhone the app won't update either. It is a lot of money to blow on something that doesn't work. Wish I could get a refund!
+Bought this lock yesterday. I'm waiting for the response from support to tell me how to update the lock. It doesn't work the way it's supposed to so I'm waiting for the work around from support. Hopefully they respond soon. I bought the 2 year protection plan but that doesn't do anything when trying to do an update. I'd hate to return it just because of the updates not working.
+Worked great first couple of weeks. Have been unable to update either lock. After waiting on hold for close to an hour with technical support on more than 1 occasion, I was sent 2 new locks which now give me critical battery errors although I have installed new duracells in each. Instill have been unable to update locks on i phones 7-10 or Galaxy 7- 8 or note 8. Ready to returm and get a different brand. I am sooo over it, especially for the amount of money I spent for them.
+Used to work, now I have to take out my phone, open the app and manually open the lock through that since the app doesn't stay running or something to allow you to just tap the lock. Like I said, it USED to work. One of the updates wrecked this thing though. Using a OnePlus 3T.
+Lock requires me to update for security reason but it fails on the update process every time. I I follow the instructions but it gives me an error message saying to hold near the lock and keep the app open. The app is open and I am holding the phone just a few inches away from the lock. I've tried deleting lock and reinstalling but nothing works. I cannot update the lock and so the locks security is compromised which is unacceptable and I will be looking into a different smart Lock system. This will be my last kevo or kwikset product purchase.
+Worked great for a while, now it responds maybe 1 out of every 10 times I try to use it. As others have stated back to using a key on a $200 lock. Very annoying.
+For everyone with an Android. The notification issue is easy to solve. For my Galaxy S6 Edge, I pull down the drop menu and hold down the Kevo notification. The notification option for the app came up and I just turned it off. No more Key at the top of my phone. Hope this helps someone.
+The proximity for the lock works one out of maybe every 20 times. The android wear feature is just completely broken as I can't activate it without an error. Without manually using this app, the locks would be pointless as the only part that works is unlocking directly from the app, with the locks connected to wifi.
+Not sure where all the 5 star reviews are coming from? This app doesn't really work. More than half the time it can't see the lock even if I'm standing right beside it. Same result for all three Android phones. The update fails every time as documented below. When it does work it takes like 20+ seconds to actually talk to the lock! Fails to work with my Android Wear devices. Can't get rid of that bloody key icon! (Unless I get rid of all notifications from it) Constantly sucks battery power so I also constantly have another icon from Android telling me to uninstall it. Very disappointed.
+This has supported the Essential PH-1 for a while now. Unfortunately other bugs have popped up, namely the inability to stop the "Works with Nest" feature. I had to go so far as to revoke API permission for Kevo in order to stop accidentally setting Nest to away mode. Disabling in the Kevo app saves the settings (or appears to), but returning to the settings shows it enabled again. This setting would be decent if no other people live at your house. However, getting up for work and leaving at 05:30, doesn't mean the wife and kids are out. It's an obnoxious nuisance notification that, as of right now, I cannot get rid of due to the above bug.
+My lock works worse and worse as time goes by. Apparently there is a known issue with Samsung phones that they haven't been able to fix. And it won't even work with our LG phone or Huawei phone.
+The notification settings are severely lacking. Persistent notifications for this make no sense. I'd like to be able to just use it if and when I want. Not constantly.
+Garbage. Lock operates with no phone present or without even touching the metal band (simply by opening the door - taking the trash out and swinging the door open). Then when I do want it to operate by touching the band and having phone present- it doesn't open.
+I pay over 200 dollars for a door lock by these ppl and then they want me to pay a monthly subscription just to let my alexa use it. Its total bs and I will never buy any more of this product
+Just to let everyone know there is a class action law suit against kevo!!!! Do a search and give them your info!!! ....., always have to put phone next to lock to open!!! Sometimes just locks on it's own!!! Please do an update to fix problems that everyone seems to be having!!!
+Kevo now shows persistent notification, whereas before it would run quietly in the background. Hate this implementation, please provide option to disable persistent notification
+The fob's are mistake, battery life is short, therefore fob's require replacing. The kevo controller is good. The documentation is weak. Hardware needs documentation, i.e. what are the locks buttons about. I needed to experiment on my own to get the 3 locks working. It is obvious the person writing doc had no hands on working experience with the locks other than without problems or interference. Great except for documentation lacks expertise.
+Used to work well, now I'm constantly having to use my manual key. Annoying
+I greatly dislike the new constant notification running in the notification bar. For the most part, I like this app. I'm hoping this version will fix some of the connecting issues I have.
+I've had this for 8 months, have had to replace the batteries multiple times (even though they're meant to last 12 months), keyless entry worked about 50% of the time and has now stopped working completely.
+Touch feature rarely works and when it does my phone has to be within about 2" of the lock. It frequently gets stuck and buzzes every 10-15 seconds and doesn't quit until I force stop the app.
+This thing SUCKS ! At best it only worked 30% of the time. Now it's not working at all. Stupid Lock !!!
+As of Android 8.1 the persistent notification is HIGH priority instead of low, meaning it ALWAYS displays the key symbol in the notification bar... PLEASE FIX ASAP!
+Please increase phone compatibility. I just switch from pixel to p20 pro and the tap to lock/unlock stopped working.
+This is like having a $178 lock apps is useless.. also drains the baterry, also y phone vibrates for no reason. I have to force stop the app.
+The app is buggy. My Galaxy s9 keeps telling me my battery is being drained by the app. I think the biggest miss is having only 1 owner that can be signed into the app. Does the manufacturer not realize that there can be more then 1 person living in one household. Having to drop everything and sign into the app so you can touch it to open the deadbolt is stupidity. ALLOW AT LEAST 2 USERS TO BE SOGNED IN PLEASE. Otherwise it's worthless
+Major issue with kevo randomly unlocking since the latest app update. Using as a standard lock as it can no longer be trusted.
+App forces my phone to vibrate every time I open my door. The vibrating will continue until I disable bluetooth.
+Lock won't update. Won't work with nest. Buzzes and vibrates my phone all the time. Calibration routine is terrible. This needs to be fixed
+I too have to hold my cell close to the lock for it to work by touch. For as much as I paid for this thing it should work better then that. I have to touch the lock about 3 times before it opens up. Using key would be much faster.
+Best Deadlock! Lot better when you put good batteries in it rather than the cheap ones that comes with it. Never forget my cell at home anymore!
+Not sure why it takes so long to find the lock when it searches for it??? Makes you look kinda goofy when at your front door waiting for it t to finally connect, faster to pull out the key, kinda defeats the purpose!
+Kevo locks and unlocks no matter who touches it will not reset does not work with $400 lg smart phone vary bad lock
+Lock and app are useless...if I had paid for the lock id have returned it by now and ive only had it a week. App/lock will not stay paired more than a few days. Calibration means nothing, bump the lock, brush past the lock, phone sitting on a table 10 feet away...which the app say is NOT supposed to open the lock...ie intruder gaining access while your phone/FOB in inside the house...it WILL open...I mean assuming it hasnt been 3 days and it needs needs to be paired again. Also the app runs constantly in the back ground. So its looking for the lock all the time...battery info SAYS 0% used since....but my phone wont last 3 hours IDLE with this app installed/running. Junk as far as I'm concerned. Smart re key IS a neat and cost effectivr feature however I'm not sure what's stopping someone from gong to Lowe's etc...and buying every single key set they have in stock
+New update has made my lock worthless. Can't connect at all! So much for keyless entry
+The new version keeps the app running in the notification bar. I miss the previous version when it was hidden and minimized. Beyond that, it does what it should.
+Works fine so far. No complaints. Hopefully I'll avoid problems others have had.
+I am happy with my Kevo. Takes a bit to get used to the nitty gritty. The only downside that I had was that Kevo support does not reply to my questions.
+Very annoying app. Vibrates my phone every ten to fifteen seconds after using the lock for about five to ten minutes. Have to turn Bluetooth off to stop it. Kevo, why do you have to vibrate my phone ever at all? Just sit silently in the background and stop being so annoying.
+Best app in the world, literally saved my cat's life as well as my belongings when I had a fire in my apartment and I was not home the fire department didn't have to bust down my door because I was able to unlock it for them! Thanks Kevo you guys are the best!
+OK I thought it was just something with my phone. Glad I decided to read the reviews. Please fix the constant key notification. I know Kevo is always running I don't need a constant reminder.
+Works well for me but I'm tired of the notification that I can't remove from my lock screen (without forcing a stop) and the battery drain that comes from it...app is in dire need of an overhaul
+Pretty good, but have been left fumbling for keys with groceries in hand a couple times already and only used for a about a week.
+Most recent update made the lock respond more quickly and reliably. Works first try 99% now, way better. I'll take the notification if it works like this. Might finally grab another one for the other door.
+App says to update lock. Download update and get error every time. Contacted Kevo, took two weeks for response, did as I was told to update, still getting error. Swapped with another lock, same issue. Guess I'll try another brand.
+You would think that this company would try to improve with the negative reviews...but no. 1st gen Kevin is finicky and works 80% of the time or end up taking the phone out close by to get in
+Galaxy note 8. Works perfect after calibration and update. I can have my phone in my pocket or wifey in her purse one touch opens and another locks. I like this app and the kevo lock. Very much worth it. I would recommend it. Hope this helps!!
+Was time consuming installing it and not sure about durability we installed this on our bedroom so we will see how it holds up to our in and out and cost was pretty high for limited features
+I'm using a Galaxy Note 8, and my wife has an S8. Apart from having to uninstall/reinstall the app once due to a random phone vibrating issue, the lock has worked flawlessly for us so far
+b"Bed does not work most of the time have to wait outside for at least 3 to 5mins before its connected, and it's been only 6days of use. Bed bed bed ??????????????"
+The app works as advertised and doesn't have any problem connecting to the lock for me, but the always on notification is bothersome and when it's running it absolutely drains my battery.
+Lock works ok but can be VERY slow to respond at times. I'm using a gen 1 lock with Samsung Galaxy S8. I can't get the Android Wear part to work with my watch - Polar M600 and I can't get the Kevo Plus to work either. New version of the app puts an icon in the notification area on the screen all the time that offers no benefit at all. How about an option to remove the key icon?
+The app insists it needs access to your location to pair devices. It also requires you to have your first and last name to set up an account, while also asking for your phone number and other information. If the Kevo database is ever hacked the thief would not only have acces to your app (aka your door) but they will know where you are to use the information. No thank you. I'll just stick to using the fob.
+Disappointed that the icon runs in the notification bar all the time.
+Need it to work on an Xperia XZ1 Compact. It's a fairly major phone brand that should be supported.
+Sometimes you have to try several attempts before the door will open or lock.
+Terrible reliability. Do not recommend the app or locks at all.
+It works on most phones. Been having problems on my S5 for some reason.
+had to hide notification. for some reason it is always running, even when I'm 30 mins from home. takes a bit to connect to door. key is so much simpler
+It takes a little time to 'connect' but it's pretty awesome that I can lock and unlock my door without having to deal with my mess of keys.
+Terrible waste of money i wish i could return it
+Would of given five stars but sometime it takes a long time for the lock to respond, tried different phones with same results.
+Takes forever to connect to lock. Easily have waited over a minute to get door to lock.
+Fancy lock that needs a key to unlock and lock touch doesn't work or you need to pull out the phone and wait for it to connect. Key is a lot faster.
+I really like my Kevo lock but I hate that the batteries die relatively quickly.
+Kevo worked fine till android updated to 8.0 now it dosen't work when will it be updated to run 8.0
+You suck,no range,sucks my battery
+Excellent app and lock. If you read the instructions, it just works. I reckon a lot of people just don't bother!
+Lock wont update. Terrible product.
+Pretty nifty. Took a second to realize how to unlock but it's cool now. Hold phone in hand and touch dead bolt. That simple
+The lock is great but would like to see it able to change functions of the lock without using pin switches on the lock and use the app instead.
+Still unable to update the firmware in the lock but the remote operation has been flawless.
+I think it's wonderful walk up to the door. touch the lock. Or touch the ap on my phone and it locks or unlocks
+Sweet spot tech locking and security system! It has bailed me out more than once...
+App won't let me update the kevo locks firmware I've tried everything.
+Worked great most of the time
+Great app, I love this lock so easy to use and it's so convenient with just a touch of my finger!!
+Not sure why folks are having trouble. Been using on two Samsung and Apple 7 without any problems.
+The solution is flaky (lock version 1)
+Great way open the door without using a key.
+Works great for me. Moto Z2 force, Moto e4. Android version and Bluetooth 4.0+ dependent.
+It's amazing so easy to use even a cave man can do it
+Sometimes the connection time is too long
+Love not having to worry about keys. Also the remote lock/unlock is great
+It just doesn't bloody work
+I use a Straight Talk Huawei Sensa Lte and it works first time every time
+Works great, but is draining the battery.
+More than 4 Years in use and more reliable than my cell phone
+Can't live without it!
+I like it so far.
+Quick in easy at first but gets slower the longer I have it
+Works perfect so far with 1st gen kevo and note 8
+Pretty good but require more equipment for remote wireless support
+Little to no tech support and the damn app won't update.
+Single touch entry and sharing keys with expiration dates is fantastic.
+Easy to install. Instructions were simple to follow. Good job!
+A pretty good app so far i love it!
+Didn't have any problems. Very easy to use.
+Just installed and working great so far.
+Great just needs to be easier to add people
+Great app awesome lock easy to use
+Great app, lock works awesome!
+I love the convenience of this app and product.
+Awesome lock really easy to use
+It works
+It works
+Great way to unlock the door.
+Works nice with Google nest
+Amazing application Greg lock
+This is great, is worth it.
+Very helpful app
+Love this app great
+Great!
+Love it!
+Good one
+Really cool
+Awesome thanks
+Very satisfying
+I love it
+Easy to install
+Its f....... Awsome
+Perfection
+Great
+Love it
+Love it
+Nice
+Lit
+Decent
+Perfect
+Cool
+The only reason I'm not giving five stars is because the app has stopped showing all events in the lock history. It shows most of them, but not all. For example, my husband leaves for work and then a few hours later I might leave for work. It will not show me locking after leaving. If that were fixed, it would absolutely be five stars. Otherwise it is incredibly useful.
+The touch-to-lock/unlock functions work fine, which is good and the primary reason I got the lock in the first place. The Android Wear compatibility was great too! Then they broke the Android Wear aspect and haven't fixed it. C'mon Unikey, you're a big company with a lot of resources: put more into Android and AW development!
+Kevo by Kwikset was marketed as being compatible with Android phones by downloading the Kevo app from the App Store. I have tried five different Android phones and NONE of them are compatible. The app says "Your phone is not compatible with the Kevo Bluetooth unlock feature." Wow, Kevo should be sued for blatent false advertising. I'm incredibly angered and disappointed since I purchased THREE Kevo Kwikset deadbolts. If you have an Android, you're most likely out of luck. I will be contacting Kevo to share my opinion of their product and their deceitful advertising. A class-action lawsuit should be opened.
+Works pretty well! Using Motorola Z Force. Even though during app install it said a lot of the features would not work, including touch to lock/unlock, EVERYTHING works! Maybe they just have not tested with the Moto Z models yet. No matter, all works as it should.
+If your phone isn't compatible just get some cheap used fobs on eBay!! Says it isn't compatible with my moto z2 play. Used my note 4 to setup and do firmware update. Now it works with my phone and has better range. My key fob would only work if I held it in my hand as I touched the lock but not from my pocket. Did a recalibration and now it works from my pocket. The app is slow, takes about 30 seconds to find the lock each time but the eKeys do work when you send them to personal with compatible phones. Verified on iPhone 6 and note 4 and note 5.
+Was sceptical about the app. Had an earlier version on my Note 5 and it drained the battery. Uninstalled it the next day. Had the fob since. Figured I'd try the app again. Works great this time around, opens the door faster than the fob does. No noticeable hit on battery performance. Here's hoping updates don't mess it up
+I use to have a note 4 and just work fine, now I have a note 8 and is working even better. Bluetooth On all time. Works on saving battery mode also. Opens the door at 1st touch
+These developers are garbage. I installed my Kevo locks two years ago, and at the time they worked like a charm. What development group drops support for an UPDATED PHONE??? How does your product work with a phone that's four years old, but not for a phone that's less than a year old? Get off your asses and make a product that's supported by all Android devices 5.0 and higher. Every other app in the app store does it. I now have a dumb lock on my home that cost me $200. Fantastic.
+If I needed the app, I would be upset. It's really slow picking up the door via Bluetooth when it does work. We really only use the physical touching of the lock housing to lock and unlock the door.
+Everything says you can control the kevo plus gateway from within the app, however even properly setup the app does not permit you to lock or unlock from everywhere.... Nor does it allow you to run the basic setup for kevo plus from the app itself.
+Kevo needs faster updates for compatibility. Had issues with my Galaxy S7 before this phone. Super excited and impressed by the lock at first but where is the tech support??!! Other than that, really convenient when it's functioning properly with your phone.
+Love the program but after android wear 2.0 update the app no longer works on smart watch since there is no kevo for android wear. Are u guys going to create one or? If android wear 2.0 is not support it just say so. Thanks
+constantly having to take my phone out and then have to open the app to get my door to unlock. of I had known that, I would just fumble for my keys as it would be faster to get in my damn house. does not work consistently
+Works great, but keeps asking me if I love it. I'm not sure in ready for such a deep relationship with my door lock. Besides....its a door lock. I'm glad it lets me in...but I'm afraid my tapping its shell has made it a bit needy....
+Just when you need this app the most, its inability to be recognized by one's phone essentially has me locked out of my home. Great app concept, atrocious execution. If you are considering this company for their wireless locks....look elsewhere. 2 biggest peeves: 1) It should be able to be active on more than one phone at a time. I shouldn't have to log in every time someone else uses it on another device. 2) It should function better over time, not worse.
+Updated 021018 - overall very poor execution. Now the lock doesn't respond at all with either an android or ios device. I'm probably going to remove the lock and install the regular keyed deadbolt. Previous review: Software is buggy for both ios and android. It's a hit or miss situation if or when the door unlocks. Carry a key as a backup because you'll use the key more often than the app. Might as well forget Android wear as it simply doesn't install / work. I've seen high school science projects executed better. Don't waste your money. I've had this paper weight for over 1.5 yrs. Won't but any kwikset products in the future.
+I have this paired with the plus and so far it works great. I can send keys to people and take them away. Works with alexa to lock it or tell you the status of the lock. I love the lock and ease of use!
+A few bugs here and there but overall it does what it is supposed to do. Wish the range on the Bluetooth was a bit broader, but still a convenient commodity when needed.
+Not fully reliable. Lock doesn't always engage or disengage. Force stop and clearing cache do nothing. Needs full uninstall and reinstall to work properly. Returning.
+Issue connecting to lock since last update, galaxy s8+ takes almost a minute or more to unlock door. Update 3/14/18: wish I never bought this. Completely useless now for over a month. GLAD I KEPT MY KEYS!!!Not working with s8+ or note 8!!! Garbage
+I have note 8, it had only glitched twice since I had the lock installed, I just reset the Bluetooth and it was fine. If u value privacy, don't get premium version, they store ur info and share with partners, wtvr that means. Simple version is just Bluetooth.
+Hi Kevo team, I am able to use the application on my phone to lock and unlock my Kevo locks even when my phone is not listed as one of the phones compatible with my device. My question is how do I make sure that my 3 Kevo locks get any required updates. Do I need a Kevo plus ? . I have the Kevo 1st generation. Thanks
+IS ANYONE PAYING ATTENTION? This has not been working on my Note 8 for a while.I cannot up date the software and it always crashes.Please fix this
+Absolute trash, does not work at all since after new year's. DO NOT buy this product. Constantly will not connect for keyless entry through phone.
+Was one of the first first edition owners and got the 2nd gen. I m IN LOVE with this lock!!! If you do not have one then go get one. I lo e that I can touch the lock and enter vs inserting a key when hands are full. Like said, love, luv, lufv!!!
+Version one barely works with any smartphone. Seems like it was abandoned. Will be moving to nest x yale
+Just started using this. Would be amazing if there could be a widget on the home screen for each lock so it didn't take so many clicks to get in to lock/unlock the door. That and the app notification that says "click to lock/unlock door" only takes you to the main screen requiring an additional few clicks to operate the lock. Fixing these two would be an easy fix and much appreciated. Would definitely use it on all the doors I have for my property management company as well.
+Recently stopped connecting to Bluetooth unless I open the app wait for connection and the hit the open lock button. Would recommend checking alternatives.
+Even updated, the notification is still persistent, so I'm going back a couple versions again. This isn't hard.
+Update: DONT WASTE YOUR TIME OR MONEY ON THIS! This product and app are still the worst! Seems like it just keeps getting worse and worse. I am at a point that I am going to buy something different...I can't believe how bad this thing is...so frustrating! If I could give this ten 1 star reviews I absolutely would. Original Post: Not only does this app just flat out not work properly, the product itself doesn't work properly and might be the most frustrating home product ever created. Unless you like approching your door, putting the kid down, your bag down, rifling around trying to find your phone, opening the app and then the door only opening 10% of the time after waiting 60 seconds for everything to sync up...this product isn't for you. Good idea...F on execution.
+Kevo is great but getting the Kevo router (Kevo plus) is awesome. Never a worry I can unlock or lock my door from anywhere. It would be great if they could offer a rechargeable battery pack designed for the usage. It has been a big help with my fast moving family.
+I'm using a Google Pixel 2 XL and it works great for me. Easy to install, easy to set up and configure. I recommend watching the set up videos as it makes it much easier. I've even used the ekeys that I sent to my sister and brother in law when the came from out of town. Great product.
+Wish it showed manual key-ins. And I wish I could see the status of my lock even when I'm not on the same wifi network, i.e. I'm at work and dont know if i locked the door or not.
+Tooooo slow, using only when there is no key. Is it faster with kevo plus?
+Device not compatible despite having android 7... Wouldn't be a big deal if the lock wasn't so expensive
+Hi, Recently I reset my Android 8.0 by Samsung Galaxy 8. After I reinstall the Kevin app, it is unable to find the Kevo lock. I am unable to unlock the door since then.
+My place of work uses this and my android states not supported. Please fix.
+Doesn't work on tablets, so it can't be added to my security console. Was unable to pair with a Kwikset Smartlock, so the app is useless to me.
+Pretty good. Unfortunately doesn't always work, even as it always shows up in the notifications.
+Sometimes the lock is slow to respond and I still carry a backup key, but overall I like Kevo.
+Horrible, I come home from school and it takes me up to 20 minutes to unlock my door
+Don't buy this if you have an Android phone, it doesn't work, waste of money. What a joke.
+This app is not compatible with LG V20. Can you guys make it compatible with LG V20?
+Stopped working on January 2, will search forever and never find the lock
+Kevo is only slightly smarter than the key in your hand. Communicates via Bluetooth, but Doesn't talk to bluetooth enabled hubs like wink.
+Glitchy. Will not update with Note 8. Doesn't seem completely compatible with Note 8.
+Doesn't make any sense that they need GPS for unlocking a lock at my door that I connect with using Bluetooth... I mean where do you want me to be? I have to be next to the lock to unlock it for the Bluetooth to connect. Bought one to try. Will keep it cause it was a lot of money but won't buy another one. Will change brand next time.
+Could not have worked better. Great app.
+You should be able to use all functions with the lock Not Just a Touch without paying $99 a month
+Works great. Love being able to send temporary keys to service people or houseguests.
+Doesn't work on Pixel 2 XL, going to have to return this POS.
+Works well, when I am away, I can let my friends and family in with their Ekeys. Also my air Bnb clients.
+It's a great app when you are a way you can have a family member come over to feed your pets!! :-)
+Works well. A little slow but I love this system
+Sometimes I have to try more than once to lock or unlock
+Works great on my Android, but my wife has issues on her iPhone
+Works pretty good. We use it to let coaches let themselves into our sports facility.
+Missing a dataport connection to online lock and unlocking.
+Where did Android Wear support go?
+Awesome! To be able to be totally in controll from anywhere who can enter your domains is very comforting!!!
+The app tan us through installation and set-up works great
+I have an smart home and this is my favorite app by far!!! It's an must have for any home!
+FABULOUS Allows the entire family to use their phones to open the door.
+Second gen works great with Samsung Galaxy S8. ZTE was so, so.
+Newer Android phone can't find the lock....
+Not nearly as bad as it was!
+Works for me!
+You need to work on compatibles but the app so for works
+Finally works for me
+Opens my door
+Yeah no keys
+Works as advertised, but wished it was quicker to connect.
+Consistency is key. It doesn't work all the time.
+absolutely amazing, works like a charm
+Life saver, especially with children.
+Working well
+its good ..little buggy sometimes
+Works as advertised
+Never works
+Made it so convenient for us.
+Works great every time.
+Great app works well.
+Good as any i've used.
+Works very well love it
+Pretty good app!
+Great device very convenient
+Luv it super easy to use
+Works great!
+Great device!
+Liking it so far..
+Works really good
+It's great
+Amazing. Love it.
+Quick!
+Easy go
+Very easy
+Very good
+Very good
+Life saver
+Bomb
+Awesome
+Good
+Cool
+Doesn't work anymore since update. Android 8.1 OnePlus 5 OxygenOS 5.1.5
+Kevo (years ago) was a great product. The limit of the equipment was held back by commands (unstandardised) for older bluetooth variants. Basically worked on iOS (Apple having total software control, and quality/modern bluetooth radios), for Android - in those early days, was handset limited. Kevo eventully came up with another product to sell, that would interface with all their locks (and others?) and give them a wider base of 'approved devices'. With that product came 'updates'. Once the lock updated (back then), was the start of the woes. Kevo locks lost most practicality at that point. The wait time to handshake with the door became massive/random. (Yes I know how to recalibrate) Tge amount of devices that now take FOREVER to open the door went up massively. I have no doubt if I owned their other product my unit would still perform. Now it just drains sets of batteries in a few weeks, and often leaves me locked out due to the ten minutes it takes to handshake, or, the unit not having enough power to work. What once ran at low power bluetooth and was an easy decision to install on the front door (between my daughter and parents' bed), now needs to be removed. I literally leave it unplugged ten months of the year. Feature creep killed a once sound product. Even on discount, no point in buying Kevo. Their disdain for users and focus on cash grabbery (selling ekeys etc) makes them an anti consumer company. Today I had to make an old android device 'go online' so I could 'RE LOGIN' just so I could get into the house. Building this software to timebomb to force users locks to get upgraded (and be made worse) was the last straw. Review posted to warn other. (20+ year IT pro: product is VERY DODGY)
+The worst. I am tech literate. It does not work
+Needed it for a vacation house. And it wasnt compatible with my phone. Ended up using my friends phone, bit it was a pain. Had to shut off app, change, settings, and reopen app every time. Never did get it to lock the door. Ended up locking from inside and going out back. Totally would not recommend
+Touch-to-open not working on Android 9.0 (Pixel 2XL). I am still able to lock/unlock in the app as usual though. Hoping they fix this soon! Husband had a similar problem when he first got his iPhone X, but the developer eventually fixed it. I love Kevo, but the errors/bugs are really frustrating and ruin the experience.
+Needs an option to turn off the background always-on feature, and a course-grained location-aware mechanism to put it in the background only when near the actual lock would also be smart. It noticeably drains my battery. I'd prefer to just open the app when I want to use it to avoid the battery drain and persistent notification.
+These last few updates have put me into to a position where I had zero issues prior and loved it. Now I can't count on it at all. Fails about 80% of the times. Update: I'm finally done. Now it fails 100% and even spent time trying to calibrate. switched to August and wish I had done it sooner. Was concerned at first on different style, but they actually update and add features regularly and actually like not having to touch the ring.
+This app and the kwikset lock have made it easy to allow entry even when i'm not at home. I can monitor what time the kids come and go as well.
+After investing over $200 for a kevo dead bolt I found out that my phone is one of the phone's that won't work with it. The website said android 5 and up. Now I have a very expensive regular dead bolt.
+The app crashed every time I tried to set up my account. It even crashed my phone after 3 attempts. I'm being asked to use this to access and Air BnB rental and it's frustrating that I can't do something as simple as creating an account to get access.
+First, it asks access to my location (for no reason IMO) and then my phone is not supported... app uninstalled and kevo convert returning back to home depot
+This lock used to work great. Now I got locked out of my house because all of a sure it does not work with my phone!!! SMH!!! Update coming???
+Trash! Doesn't work with LG G6. App runs all the time and drains your battery.
+The software SUCKS...GARBAGE GARBAGE GARBAGE...since the update that apparently no - one can download...why the hell arent you fixing it
+Just bad. Many better options out there.
+CAUTION! Not compatible with my Android phone. Be sure and check yours!
+Does not work with any lg devices which is just plain dumb
+Just doesn't unlock door anymore . What is the point when I have to use my key!!!!
+Didn't work on my phone
+Love being able to lock my door remotely. Hands are full? No problem. Use your elbow to unlock the door.
+Don't work on my 4s
+Can't get my lock to even sink with app.
+nope im not writing a review
+I'm locked outside geez thanks
+Takes forever to connect half the time, I wouldn't waste money on this
+Its very easy to use and install. Wish it gave unlock notifications
+Works great!
+Love the concept and the app
+Awesome app
+Good ty
+Great
+love it

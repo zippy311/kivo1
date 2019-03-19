@@ -1,0 +1,19 @@
+--Personal Assistant Apps (Amazon Alexa, Google Home)
+(0, '0.025*"music" + 0.019*"love" + 0.018*"play" + 0.014*"home" + 0.012*"good" + 0.010*"great" + 0.007*"feature" + 0.006*"phone" + 0.006*"device" + 0.006*"speaker"')
+(1, '0.035*"home" + 0.024*"device" + 0.012*"voice" + 0.009*"list" + 0.009*"mini" + 0.008*"control" + 0.007*"add" + 0.007*"say" + 0.007*"account" + 0.007*"setting"')
+(2, '0.030*"chromecast" + 0.020*"cast" + 0.019*"device" + 0.018*"phone" + 0.017*"update" + 0.015*"time" + 0.014*"tv" + 0.012*"connect" + 0.012*"screen" + 0.010*"wifi"')
+
+--Thermostat Apps (ecobee, Nest)
+(0, '0.028*"thermostat" + 0.024*"great" + 0.020*"home" + 0.016*"away" + 0.013*"love" + 0.011*"setting" + 0.011*"temperature" + 0.010*"time" + 0.009*"control" + 0.009*"easy"')
+(1, '0.027*"camera" + 0.016*"screen" + 0.014*"update" + 0.014*"time" + 0.013*"video" + 0.011*"cam" + 0.011*"notification" + 0.010*"back" + 0.009*"new" + 0.008*"view"')
+(2, '0.039*"update" + 0.012*"thermostat" + 0.011*"phone" + 0.010*"device" + 0.010*"fix" + 0.009*"latest" + 0.009*"android" + 0.009*"new" + 0.009*"support" + 0.008*"back"')
+
+--Central Device Control (Insteon for Hub, SmartThings, WeMo)
+(0, '0.046*"great" + 0.029*"good" + 0.023*"easy" + 0.020*"love" + 0.016*"setup" + 0.010*"home" + 0.009*"product" + 0.008*"far" + 0.008*"nice" + 0.008*"simple"')
+(1, '0.014*"wifi" + 0.014*"device" + 0.011*"light" + 0.010*"home" + 0.010*"user" + 0.009*"connection" + 0.008*"connect" + 0.008*"never" + 0.008*"access" + 0.007*"slow"')
+(2, '0.029*"device" + 0.020*"update" + 0.019*"time" + 0.015*"phone" + 0.012*"tv" + 0.011*"connect" + 0.010*"switch" + 0.008*"android" + 0.008*"smart" + 0.007*"new"')
+
+--Misc. Specific Device Control (Kevo, Philips Hue, Tile)
+(0, '0.021*"lock" + 0.017*"phone" + 0.016*"android" + 0.016*"update" + 0.010*"device" + 0.010*"support" + 0.010*"time" + 0.009*"issue" + 0.007*"good" + 0.007*"door"')
+(1, '0.035*"light" + 0.013*"location" + 0.013*"update" + 0.012*"home" + 0.011*"scene" + 0.011*"turn" + 0.011*"feature" + 0.010*"room" + 0.009*"better" + 0.008*"bulb"')
+(2, '0.030*"key" + 0.026*"phone" + 0.025*"find" + 0.021*"great" + 0.018*"time" + 0.014*"love" + 0.013*"tile" + 0.009*"battery" + 0.008*"wallet" + 0.008*"ring"')

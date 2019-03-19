@@ -1,0 +1,190 @@
+\begin{table}
+\caption{Amazon Alexa App 1-Star Reviews}
+\centering
+\label{tab:alexa1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"time" & 0.016 & "device" & 0.015 & "star" & 0.066 \\ \hline
+	"device" & 0.011 & "product" & 0.013 & "music" & 0.026 \\ \hline
+	"music" & 0.010 & "month" & 0.012 & "money" & 0.014 \\ \hline
+	"connect" & 0.009 & "quality" & 0.012 & "play" & 0.014 \\ \hline
+	"wifi" & 0.008 & "sound" & 0.011 & "know" & 0.012 \\ \hline
+	"play" & 0.007 & "day" & 0.010 & "useless" & 0.012 \\ \hline
+	"internet" & 0.006 & "stopped" & 0.008 & "it’s" & 0.012 \\ \hline
+	"connected" & 0.006 & "buy" & 0.008 & "sound" & 0.011 \\ \hline
+	"know" & 0.006 & "disappointed" & 0.007 & "don’t" & 0.011 \\ \hline
+	"product" & 0.006 & "support" & 0.007 & "doesn’t" & 0.011 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{ecobee App 1-Star Reviews}
+\centering
+\label{tab:ecobee1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"thermostat" & 0.012 & "support" & 0.010 & "support" & 0.019 \\ \hline
+	"wifi" & 0.009 & "thermostat" & 0.010 & "product" & 0.013 \\ \hline
+	"back" & 0.009 & "product" & 0.009 & "hour" & 0.008 \\ \hline
+	"house" & 0.008 & "month" & 0.008 & "unit" & 0.008 \\ \hline
+	"sensor" & 0.008 & "two" & 0.007 & "tech" & 0.008 \\ \hline
+	"support" & 0.008 & "temperature" & 0.007 & "install" & 0.008 \\ \hline
+	"turn" & 0.008 & "system" & 0.007 & "system" & 0.008 \\ \hline
+	"time" & 0.008 & "installed" & 0.006 & "service" & 0.007 \\ \hline
+	"buy" & 0.007 & "feature" & 0.006 & "electrician" & 0.006 \\ \hline
+	"ac" & 0.007 & "bought" & 0.005 & "wire" & 0.006 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Google Home App 1-Star Reviews}
+\centering
+\label{tab:google1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"router" & 0.019 & "device" & 0.020 & "wifi" & 0.028 \\ \hline
+	"wifi" & 0.013 & "wifi" & 0.017 & "speed" & 0.016 \\ \hline
+	"device" & 0.010 & "product" & 0.011 & "product" & 0.016 \\ \hline
+	"back" & 0.007 & "mesh" & 0.010 & "router" & 0.012 \\ \hline
+	"another" & 0.007 & "internet" & 0.007 & "system" & 0.011 \\ \hline
+	"time" & 0.007 & "network" & 0.007 & "device" & 0.011 \\ \hline
+	"support" & 0.007 & "router" & 0.007 & "internet" & 0.011 \\ \hline
+	"hour" & 0.007 & "compatible" & 0.007 & "support" & 0.008 \\ \hline
+	"thing" & 0.005 & "point" & 0.006 & "network" & 0.007 \\ \hline
+	"point" & 0.005 & "house" & 0.006 & "mesh" & 0.007 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Insteon App 1-Star Reviews}
+\centering
+\label{tab:insteon1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"de" & 0.011 & "device" & 0.028 & "sensor" & 0.020 \\ \hline
+	"new" & 0.011 & "year" & 0.014 & "door" & 0.010 \\ \hline
+	"support" & 0.011 & "product" & 0.011 & "switch" & 0.009 \\ \hline
+	"customer" & 0.007 & "scene" & 0.011 & "support" & 0.009 \\ \hline
+	"hub" & 0.006 & "new" & 0.011 & "product" & 0.008 \\ \hline
+	"warranty" & 0.006 & "customer" & 0.010 & "year" & 0.007 \\ \hline
+	"tech" & 0.005 & "two" & 0.009 & "time" & 0.007 \\ \hline
+	"started" & 0.005 & "terrible" & 0.009 & "garage" & 0.007 \\ \hline
+	"unit" & 0.005 & "account" & 0.008 & "light" & 0.006 \\ \hline
+	"buy" & 0.005 & "support" & 0.008 & "back" & 0.006 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Kevo App 1-Star Reviews}
+\centering
+\label{tab:kevo1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"lock" & 0.040 & "lock" & 0.035 & "lock" & 0.036 \\ \hline
+	"door" & 0.017 & "battery" & 0.016 & "time" & 0.019 \\ \hline
+	"phone" & 0.009 & "product" & 0.014 & "door" & 0.015 \\ \hline
+	"product" & 0.009 & "time" & 0.014 & "key" & 0.013 \\ \hline
+	"time" & 0.009 & "never" & 0.009 & "phone" & 0.013 \\ \hline
+	"kwikset" & 0.007 & "terrible" & 0.008 & "take" & 0.009 \\ \hline
+	"key" & 0.007 & "door" & 0.007 & "unlock" & 0.007 \\ \hline
+	"smart" & 0.005 & "open" & 0.007 & "second" & 0.007 \\ \hline
+	"day" & 0.005 & "unlock" & 0.007 & "great" & 0.006 \\ \hline
+	"never" & 0.004 & "key" & 0.007 & "open" & 0.006 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Nest App 1-Star Reviews}
+\centering
+\label{tab:nest1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"thermostat" & 0.016 & "thermostat" & 0.019 & "thermostat" & 0.027 \\ \hline
+	"support" & 0.010 & "product" & 0.010 & "temperature" & 0.011 \\ \hline
+	"product" & 0.010 & "time" & 0.010 & "house" & 0.009 \\ \hline
+	"day" & 0.007 & "home" & 0.008 & "day" & 0.008 \\ \hline
+	"month" & 0.007 & "support" & 0.007 & "time" & 0.007 \\ \hline
+	"customer" & 0.006 & "heat" & 0.006 & "back" & 0.006 \\ \hline
+	"ac" & 0.006 & "ac" & 0.006 & "heat" & 0.006 \\ \hline
+	"unit" & 0.006 & "turn" & 0.006 & "support" & 0.006 \\ \hline
+	"time" & 0.006 & "problem" & 0.006 & "setting" & 0.006 \\ \hline
+	"hour" & 0.005 & "issue" & 0.006 & "home" & 0.005 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Philips Hue App 1-Star Reviews}
+\centering
+\label{tab:philipshue1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"bulb" & 0.017 & "light" & 0.044 & "bulb" & 0.031 \\ \hline
+	"star" & 0.012 & "bulb" & 0.016 & "product" & 0.021 \\ \hline
+	"support" & 0.009 & "switch" & 0.014 & "light" & 0.012 \\ \hline
+	"time" & 0.009 & "color" & 0.012 & "kit" & 0.010 \\ \hline
+	"bridge" & 0.009 & "bridge" & 0.009 & "turn" & 0.009 \\ \hline
+	"connect" & 0.008 & "back" & 0.007 & "support" & 0.008 \\ \hline
+	"tried" & 0.008 & "buy" & 0.007 & "number" & 0.008 \\ \hline
+	"internet" & 0.008 & "turn" & 0.007 & "bridge" & 0.008 \\ \hline
+	"link" & 0.007 & "right" & 0.007 & "customer" & 0.007 \\ \hline
+	"system" & 0.007 & "yellow" & 0.007 & "purchased" & 0.007 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{SmartThings App 1-Star Reviews}
+\centering
+\label{tab:smartthings1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"product" & 0.009 & "device" & 0.020 & "product" & 0.011 \\ \hline
+	"new" & 0.007 & "support" & 0.015 & "time" & 0.010 \\ \hline
+	"device" & 0.007 & "smartthings" & 0.010 & "device" & 0.009 \\ \hline
+	"service" & 0.007 & "home" & 0.008 & "smartthings" & 0.009 \\ \hline
+	"smart" & 0.007 & "product" & 0.007 & "home" & 0.009 \\ \hline
+	"home" & 0.006 & "find" & 0.005 & "light" & 0.008 \\ \hline
+	"time" & 0.005 & "switch" & 0.005 & "lock" & 0.007 \\ \hline
+	"customer" & 0.005 & "everything" & 0.004 & "money" & 0.006 \\ \hline
+	"location" & 0.005 & "reset" & 0.004 & "turn" & 0.006 \\ \hline
+	"u" & 0.005 & "hour" & 0.004 & "problem" & 0.006 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Tile App 1-Star Reviews}
+\centering
+\label{tab:tile1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"month" & 0.029 & "phone" & 0.022 & "battery" & 0.029 \\ \hline
+	"phone" & 0.019 & "key" & 0.013 & "year" & 0.022 \\ \hline
+	"battery" & 0.018 & "find" & 0.013 & "product" & 0.019 \\ \hline
+	"key" & 0.017 & "tile" & 0.011 & "new" & 0.014 \\ \hline
+	"stopped" & 0.016 & "product" & 0.011 & "buy" & 0.012 \\ \hline
+	"time" & 0.015 & "time" & 0.010 & "replace" & 0.008 \\ \hline
+	"bought" & 0.012 & "never" & 0.009 & "time" & 0.007 \\ \hline
+	"product" & 0.012 & "useless" & 0.009 & "good" & 0.007 \\ \hline
+	"money" & 0.011 & "waste" & 0.008 & "find" & 0.007 \\ \hline
+	"day" & 0.010 & "money" & 0.008 & "tile" & 0.007 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{WeMo App 1-Star Reviews}
+\centering
+\label{tab:wemo1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"device" & 0.017 & "switch" & 0.025 & "time" & 0.016 \\ \hline
+	"plug" & 0.015 & "wifi" & 0.018 & "product" & 0.015 \\ \hline
+	"time" & 0.014 & "connect" & 0.014 & "plug" & 0.014 \\ \hline
+	"switch" & 0.010 & "device" & 0.013 & "device" & 0.013 \\ \hline
+	"smart" & 0.010 & "product" & 0.012 & "wifi" & 0.012 \\ \hline
+	"connect" & 0.009 & "time" & 0.008 & "connect" & 0.009 \\ \hline
+	"turn" & 0.008 & "home" & 0.008 & "smart" & 0.009 \\ \hline
+	"network" & 0.008 & "light" & 0.008 & "network" & 0.008 \\ \hline
+	"light" & 0.008 & "support" & 0.007 & "hour" & 0.008 \\ \hline
+	"month" & 0.008 & "dimmer" & 0.007 & "support" & 0.008 \\ \hline
+\end{tabular}
+\end{table}
+

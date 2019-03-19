@@ -1,4 +1,0 @@
---Central Device Control (Insteon for Hub, SmartThings, WeMo)
-(0, '0.046*"great" + 0.029*"good" + 0.023*"easy" + 0.020*"love" + 0.016*"setup" + 0.010*"home" + 0.009*"product" + 0.008*"far" + 0.008*"nice" + 0.008*"simple"')
-(1, '0.014*"wifi" + 0.014*"device" + 0.011*"light" + 0.010*"home" + 0.010*"user" + 0.009*"connection" + 0.008*"connect" + 0.008*"never" + 0.008*"access" + 0.007*"slow"')
-(2, '0.029*"device" + 0.020*"update" + 0.019*"time" + 0.015*"phone" + 0.012*"tv" + 0.011*"connect" + 0.010*"switch" + 0.008*"android" + 0.008*"smart" + 0.007*"new"')

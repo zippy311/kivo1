@@ -1,0 +1,52 @@
+Date/Time: 2018-11-06 16:29
+Number of Passes: 100
+Amazon Echo Dot
+(0, '0.037*"good" + 0.026*"music" + 0.019*"play" + 0.015*"great" + 0.011*"nice" + 0.008*"amazing" + 0.008*"control" + 0.007*"song" + 0.006*"voice" + 0.006*"time"')
+(1, '0.021*"love" + 0.018*"device" + 0.016*"update" + 0.013*"slow" + 0.011*"home" + 0.010*"list" + 0.007*"awesome" + 0.007*"take" + 0.007*"please" + 0.007*"phone"')
+(2, '0.018*"connect" + 0.016*"time" + 0.015*"wifi" + 0.014*"phone" + 0.013*"keep" + 0.012*"update" + 0.009*"android" + 0.009*"device" + 0.008*"tried" + 0.008*"best"')
+
+ecobee4
+(0, '0.033*"update" + 0.023*"thermostat" + 0.014*"new" + 0.012*"version" + 0.012*"great" + 0.011*"sensor" + 0.010*"tablet" + 0.009*"back" + 0.009*"phone" + 0.009*"screen"')
+(1, '0.015*"great" + 0.013*"love" + 0.012*"back" + 0.011*"thermostat" + 0.011*"geofencing" + 0.010*"geofence" + 0.009*"update" + 0.009*"much" + 0.008*"time" + 0.008*"setting"')
+(2, '0.024*"update" + 0.022*"thermostat" + 0.016*"time" + 0.015*"connection" + 0.015*"internet" + 0.010*"setting" + 0.009*"log" + 0.009*"screen" + 0.009*"device" + 0.009*"wifi"')
+
+Google WiFi System
+(0, '0.067*"good" + 0.050*"great" + 0.019*"nice" + 0.018*"awesome" + 0.013*"easy" + 0.009*"ok" + 0.006*"video" + 0.006*"excellent" + 0.005*"thank" + 0.005*"thanks"')
+(1, '0.039*"home" + 0.015*"love" + 0.014*"device" + 0.011*"mini" + 0.010*"music" + 0.010*"control" + 0.009*"play" + 0.008*"voice" + 0.007*"speaker" + 0.007*"add"')
+(2, '0.039*"chromecast" + 0.029*"cast" + 0.026*"device" + 0.022*"update" + 0.017*"phone" + 0.016*"tv" + 0.015*"connect" + 0.012*"wifi" + 0.012*"screen" + 0.012*"time"')
+
+Insteon Hub HW
+(0, '0.018*"device" + 0.014*"new" + 0.012*"time" + 0.010*"back" + 0.010*"connect" + 0.008*"money" + 0.008*"slow" + 0.008*"waste" + 0.008*"good" + 0.007*"horrible"')
+(1, '0.008*"thermostat" + 0.008*"device" + 0.006*"keep" + 0.006*"time" + 0.006*"notification" + 0.006*"setting" + 0.006*"never" + 0.006*"useless" + 0.006*"constantly" + 0.006*"multiple"')
+(2, '0.010*"support" + 0.010*"interface" + 0.008*"hardware" + 0.008*"account" + 0.008*"product" + 0.008*"update" + 0.008*"let" + 0.008*"oh" + 0.008*"month" + 0.008*"device"')
+
+Kevo 2nd Gen
+(0, '0.046*"lock" + 0.024*"door" + 0.022*"time" + 0.018*"phone" + 0.017*"update" + 0.014*"key" + 0.011*"unlock" + 0.009*"love" + 0.008*"open" + 0.008*"connect"')
+(1, '0.032*"lock" + 0.024*"phone" + 0.017*"android" + 0.015*"great" + 0.012*"open" + 0.012*"update" + 0.008*"time" + 0.007*"note" + 0.007*"device" + 0.007*"running"')
+(2, '0.017*"lock" + 0.016*"time" + 0.016*"great" + 0.016*"good" + 0.010*"easy" + 0.009*"pretty" + 0.009*"battery" + 0.009*"key" + 0.008*"awesome" + 0.006*"update"')
+
+Nest T3007ES
+(0, '0.020*"camera" + 0.016*"time" + 0.016*"thermostat" + 0.015*"notification" + 0.010*"update" + 0.008*"offline" + 0.006*"issue" + 0.005*"phone" + 0.005*"android" + 0.005*"product"')
+(1, '0.033*"home" + 0.022*"away" + 0.014*"great" + 0.014*"turn" + 0.014*"thermostat" + 0.011*"phone" + 0.010*"love" + 0.009*"time" + 0.009*"temperature" + 0.008*"product"')
+(2, '0.025*"update" + 0.021*"camera" + 0.014*"load" + 0.012*"video" + 0.011*"connect" + 0.010*"take" + 0.010*"wifi" + 0.009*"last" + 0.008*"fix" + 0.008*"great"')
+
+Philips Hue Starter Kit
+(0, '0.041*"light" + 0.016*"room" + 0.014*"great" + 0.013*"update" + 0.012*"scene" + 0.011*"time" + 0.010*"bulb" + 0.010*"new" + 0.010*"turn" + 0.009*"feature"')
+(1, '0.011*"version" + 0.010*"light" + 0.007*"color" + 0.007*"location" + 0.007*"scene" + 0.007*"routine" + 0.007*"good" + 0.006*"gen" + 0.006*"easy" + 0.006*"feature"')
+(2, '0.031*"update" + 0.028*"bridge" + 0.023*"light" + 0.018*"home" + 0.014*"connect" + 0.008*"time" + 0.008*"control" + 0.008*"connection" + 0.007*"new" + 0.006*"find"')
+
+SmartThings Hub
+(0, '0.035*"great" + 0.024*"love" + 0.023*"smartthings" + 0.022*"device" + 0.016*"easy" + 0.014*"home" + 0.013*"smart" + 0.013*"classic" + 0.011*"useful" + 0.009*"awesome"')
+(1, '0.036*"phone" + 0.030*"uninstall" + 0.019*"permission" + 0.015*"update" + 0.015*"bloatware" + 0.014*"disable" + 0.014*"apps" + 0.012*"remove" + 0.011*"device" + 0.011*"delete"')
+(2, '0.044*"tv" + 0.028*"connect" + 0.026*"good" + 0.020*"device" + 0.017*"phone" + 0.015*"smart" + 0.013*"time" + 0.011*"bluetooth" + 0.011*"update" + 0.009*"remote"')
+
+Tile Mate
+(0, '0.021*"great" + 0.018*"tile" + 0.016*"find" + 0.016*"battery" + 0.014*"time" + 0.014*"phone" + 0.011*"key" + 0.010*"product" + 0.009*"never" + 0.008*"year"')
+(1, '0.020*"love" + 0.018*"phone" + 0.010*"found" + 0.009*"key" + 0.008*"easy" + 0.008*"find" + 0.008*"location" + 0.008*"great" + 0.008*"best" + 0.007*"good"')
+(2, '0.039*"phone" + 0.029*"key" + 0.020*"find" + 0.017*"time" + 0.013*"tile" + 0.010*"keep" + 0.009*"lost" + 0.008*"location" + 0.008*"bluetooth" + 0.008*"ring"')
+
+WeMo Mini Smart Plug
+(0, '0.025*"switch" + 0.024*"light" + 0.021*"update" + 0.021*"home" + 0.017*"turn" + 0.015*"device" + 0.012*"smart" + 0.011*"plug" + 0.011*"firmware" + 0.011*"product"')
+(1, '0.037*"great" + 0.033*"easy" + 0.027*"time" + 0.018*"device" + 0.017*"setup" + 0.015*"good" + 0.013*"love" + 0.012*"buggy" + 0.009*"slow" + 0.008*"product"')
+(2, '0.035*"device" + 0.023*"time" + 0.019*"wifi" + 0.019*"connect" + 0.013*"switch" + 0.012*"setup" + 0.011*"rule" + 0.011*"network" + 0.011*"plug" + 0.009*"reset"')
+

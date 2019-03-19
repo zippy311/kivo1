@@ -1,0 +1,21 @@
+Google Home
+1-star reviews: 917
+(0, '0.024*"cast" + 0.023*"device" + 0.022*"chromecast" + 0.019*"phone" + 0.015*"tv" + 0.015*"home" + 0.012*"account" + 0.012*"connect" + 0.010*"time" + 0.009*"update"')
+(1, '0.024*"device" + 0.016*"home" + 0.012*"account" + 0.011*"useless" + 0.007*"say" + 0.006*"add" + 0.006*"already" + 0.006*"never" + 0.006*"smart" + 0.005*"great"')
+(2, '0.022*"chromecast" + 0.022*"home" + 0.017*"update" + 0.013*"play" + 0.012*"music" + 0.012*"device" + 0.009*"time" + 0.008*"wifi" + 0.007*"connect" + 0.007*"fix"')
+2-star reviews: 383
+(0, '0.013*"chromecast" + 0.013*"home" + 0.012*"voice" + 0.012*"device" + 0.008*"support" + 0.008*"problem" + 0.007*"cast" + 0.007*"setting" + 0.007*"change" + 0.006*"screen"')
+(1, '0.030*"device" + 0.027*"home" + 0.023*"chromecast" + 0.013*"cast" + 0.012*"phone" + 0.011*"connect" + 0.010*"update" + 0.010*"time" + 0.008*"issue" + 0.007*"screen"')
+(2, '0.013*"update" + 0.012*"home" + 0.012*"cast" + 0.010*"fix" + 0.010*"play" + 0.009*"music" + 0.008*"time" + 0.007*"please" + 0.007*"phone" + 0.007*"last"')
+3-star reviews: 343
+(0, '0.021*"home" + 0.012*"phone" + 0.010*"cast" + 0.009*"music" + 0.009*"play" + 0.008*"screen" + 0.008*"setting" + 0.007*"video" + 0.007*"problem" + 0.007*"apps"')
+(1, '0.014*"chromecast" + 0.011*"keep" + 0.009*"time" + 0.009*"device" + 0.009*"cast" + 0.008*"phone" + 0.008*"find" + 0.007*"tv" + 0.007*"update" + 0.006*"add"')
+(2, '0.029*"home" + 0.024*"device" + 0.009*"chromecast" + 0.007*"control" + 0.007*"phone" + 0.007*"update" + 0.007*"time" + 0.007*"speaker" + 0.007*"voice" + 0.006*"cast"')
+4-star reviews: 234
+(0, '0.022*"home" + 0.014*"device" + 0.010*"great" + 0.009*"love" + 0.008*"screen" + 0.007*"photo" + 0.007*"day" + 0.007*"cast" + 0.006*"please" + 0.006*"assistant"')
+(1, '0.020*"good" + 0.012*"chromecast" + 0.011*"cast" + 0.009*"wifi" + 0.008*"home" + 0.008*"device" + 0.007*"easy" + 0.007*"play" + 0.007*"apps" + 0.007*"useful"')
+(2, '0.025*"device" + 0.022*"home" + 0.020*"chromecast" + 0.016*"great" + 0.010*"good" + 0.009*"speaker" + 0.009*"mini" + 0.009*"please" + 0.008*"tv" + 0.008*"audio"')
+5-star reviews: 563
+(0, '0.035*"home" + 0.013*"device" + 0.013*"phone" + 0.012*"great" + 0.010*"problem" + 0.008*"mini" + 0.007*"love" + 0.006*"account" + 0.006*"wifi" + 0.006*"time"')
+(1, '0.042*"good" + 0.040*"love" + 0.036*"great" + 0.017*"cast" + 0.017*"home" + 0.016*"tv" + 0.014*"chromecast" + 0.011*"nice" + 0.010*"update" + 0.009*"phone"')
+(2, '0.025*"chromecast" + 0.020*"home" + 0.017*"device" + 0.015*"easy" + 0.015*"awesome" + 0.011*"love" + 0.011*"amazing" + 0.010*"tv" + 0.009*"useful" + 0.009*"setting"')

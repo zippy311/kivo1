@@ -1,0 +1,190 @@
+\begin{table}
+\caption{Amazon Alexa App 1-Star Reviews}
+\centering
+\label{tab:alexa1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"hate" & 0.025 & "useless" & 0.016 & "device" & 0.022 \\ \hline
+	"time" & 0.021 & "bad" & 0.016 & "update" & 0.020 \\ \hline
+	"terrible" & 0.020 & "time" & 0.014 & "suck" & 0.014 \\ \hline
+	"waste" & 0.015 & "stupid" & 0.014 & "horrible" & 0.012 \\ \hline
+	"good" & 0.015 & "keep" & 0.014 & "phone" & 0.011 \\ \hline
+	"useful" & 0.010 & "download" & 0.012 & "connect" & 0.010 \\ \hline
+	"slow" & 0.009 & "phone" & 0.012 & "wifi" & 0.008 \\ \hline
+	"music" & 0.008 & "open" & 0.011 & "battery" & 0.007 \\ \hline
+	"bed" & 0.007 & "worst" & 0.011 & "home" & 0.007 \\ \hline
+	"faltu" & 0.007 & "tried" & 0.008 & "new" & 0.007 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{ecobee App 1-Star Reviews}
+\centering
+\label{tab:ecobee1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"update" & 0.032 & "update" & 0.031 & "thermostat" & 0.020 \\ \hline
+	"thermostat" & 0.016 & "thermostat" & 0.013 & "time" & 0.018 \\ \hline
+	"internet" & 0.016 & "geofence" & 0.011 & "update" & 0.017 \\ \hline
+	"screen" & 0.012 & "time" & 0.010 & "back" & 0.012 \\ \hline
+	"connection" & 0.012 & "latest" & 0.010 & "geofence" & 0.008 \\ \hline
+	"show" & 0.012 & "internet" & 0.009 & "screen" & 0.007 \\ \hline
+	"last" & 0.011 & "connection" & 0.009 & "take" & 0.005 \\ \hline
+	"version" & 0.011 & "geofencing" & 0.009 & "user" & 0.005 \\ \hline
+	"back" & 0.010 & "version" & 0.008 & "setting" & 0.005 \\ \hline
+	"new" & 0.009 & "feature" & 0.008 & "smart" & 0.005 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Google Home App 1-Star Reviews}
+\centering
+\label{tab:google1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"music" & 0.016 & "chromecast" & 0.039 & "cast" & 0.034 \\ \hline
+	"time" & 0.014 & "device" & 0.031 & "phone" & 0.015 \\ \hline
+	"play" & 0.013 & "update" & 0.023 & "chrome" & 0.011 \\ \hline
+	"home" & 0.012 & "home" & 0.019 & "casting" & 0.010 \\ \hline
+	"voice" & 0.008 & "connect" & 0.019 & "home" & 0.010 \\ \hline
+	"keep" & 0.007 & "cast" & 0.017 & "screen" & 0.009 \\ \hline
+	"back" & 0.007 & "phone" & 0.014 & "video" & 0.009 \\ \hline
+	"list" & 0.006 & "wifi" & 0.013 & "time" & 0.007 \\ \hline
+	"product" & 0.006 & "tv" & 0.011 & "tv" & 0.007 \\ \hline
+	"give" & 0.006 & "time" & 0.011 & "chromecast" & 0.007 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Insteon App 1-Star Reviews}
+\centering
+\label{tab:insteon1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"time" & 0.013 & "device" & 0.017 & "hardware" & 0.011 \\ \hline
+	"find" & 0.013 & "waste" & 0.013 & "support" & 0.011 \\ \hline
+	"version" & 0.013 & "new" & 0.013 & "worst" & 0.011 \\ \hline
+	"pretty" & 0.009 & "money" & 0.013 & "let" & 0.011 \\ \hline
+	"money" & 0.009 & "issue" & 0.009 & "point" & 0.008 \\ \hline
+	"new" & 0.009 & "product" & 0.009 & "almost" & 0.007 \\ \hline
+	"slow" & 0.009 & "stay" & 0.009 & "product" & 0.007 \\ \hline
+	"either" & 0.009 & "thermostat" & 0.009 & "useless" & 0.007 \\ \hline
+	"back" & 0.009 & "connect" & 0.009 & "interface" & 0.007 \\ \hline
+	"horrible" & 0.009 & "awful" & 0.009 & "android" & 0.007 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Kevo App 1-Star Reviews}
+\centering
+\label{tab:kevo1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"lock" & 0.052 & "door" & 0.025 & "lock" & 0.030 \\ \hline
+	"update" & 0.027 & "phone" & 0.023 & "phone" & 0.022 \\ \hline
+	"time" & 0.015 & "lock" & 0.022 & "time" & 0.018 \\ \hline
+	"phone" & 0.011 & "time" & 0.018 & "door" & 0.017 \\ \hline
+	"key" & 0.010 & "product" & 0.010 & "update" & 0.016 \\ \hline
+	"last" & 0.008 & "unlock" & 0.009 & "android" & 0.014 \\ \hline
+	"take" & 0.007 & "home" & 0.008 & "unlock" & 0.014 \\ \hline
+	"device" & 0.007 & "key" & 0.007 & "open" & 0.012 \\ \hline
+	"product" & 0.007 & "open" & 0.007 & "key" & 0.012 \\ \hline
+	"fails" & 0.007 & "back" & 0.007 & "tried" & 0.009 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Nest App 1-Star Reviews}
+\centering
+\label{tab:nest1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"notification" & 0.011 & "camera" & 0.027 & "thermostat" & 0.024 \\ \hline
+	"phone" & 0.008 & "time" & 0.014 & "update" & 0.022 \\ \hline
+	"time" & 0.007 & "update" & 0.013 & "home" & 0.017 \\ \hline
+	"bluetooth" & 0.006 & "video" & 0.011 & "away" & 0.014 \\ \hline
+	"feed" & 0.006 & "day" & 0.008 & "connect" & 0.013 \\ \hline
+	"live" & 0.006 & "see" & 0.006 & "camera" & 0.011 \\ \hline
+	"video" & 0.006 & "take" & 0.006 & "time" & 0.009 \\ \hline
+	"service" & 0.005 & "phone" & 0.006 & "fix" & 0.008 \\ \hline
+	"temperature" & 0.005 & "load" & 0.006 & "load" & 0.008 \\ \hline
+	"trying" & 0.005 & "fix" & 0.006 & "never" & 0.007 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Philips Hue App 1-Star Reviews}
+\centering
+\label{tab:philipshue1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"light" & 0.043 & "bridge" & 0.028 & "update" & 0.030 \\ \hline
+	"update" & 0.017 & "light" & 0.020 & "light" & 0.014 \\ \hline
+	"turn" & 0.012 & "update" & 0.014 & "bridge" & 0.013 \\ \hline
+	"connection" & 0.010 & "time" & 0.012 & "bulb" & 0.011 \\ \hline
+	"bridge" & 0.010 & "home" & 0.011 & "connect" & 0.009 \\ \hline
+	"control" & 0.009 & "find" & 0.011 & "new" & 0.009 \\ \hline
+	"time" & 0.009 & "bulb" & 0.010 & "home" & 0.008 \\ \hline
+	"home" & 0.008 & "connect" & 0.010 & "version" & 0.008 \\ \hline
+	"connect" & 0.007 & "new" & 0.009 & "room" & 0.007 \\ \hline
+	"fix" & 0.006 & "issue" & 0.009 & "control" & 0.006 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{SmartThings App 1-Star Reviews}
+\centering
+\label{tab:smartthings1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"phone" & 0.056 & "permission" & 0.056 & "tv" & 0.026 \\ \hline
+	"uninstall" & 0.055 & "many" & 0.026 & "device" & 0.020 \\ \hline
+	"bloatware" & 0.028 & "access" & 0.022 & "connect" & 0.019 \\ \hline
+	"disable" & 0.024 & "contact" & 0.017 & "smart" & 0.015 \\ \hline
+	"remove" & 0.022 & "without" & 0.008 & "phone" & 0.012 \\ \hline
+	"delete" & 0.020 & "suck" & 0.008 & "smartthings" & 0.012 \\ \hline
+	"update" & 0.018 & "want" & 0.008 & "new" & 0.010 \\ \hline
+	"apps" & 0.015 & "requires" & 0.008 & "time" & 0.010 \\ \hline
+	"never" & 0.013 & "uninstalled" & 0.008 & "update" & 0.010 \\ \hline
+	"option" & 0.012 & "give" & 0.007 & "control" & 0.008 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{Tile App 1-Star Reviews}
+\centering
+\label{tab:tile1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"phone" & 0.044 & "tile" & 0.022 & "time" & 0.016 \\ \hline
+	"tile" & 0.016 & "phone" & 0.015 & "key" & 0.012 \\ \hline
+	"find" & 0.016 & "battery" & 0.014 & "phone" & 0.011 \\ \hline
+	"ring" & 0.012 & "product" & 0.012 & "support" & 0.009 \\ \hline
+	"key" & 0.011 & "buy" & 0.010 & "find" & 0.008 \\ \hline
+	"useless" & 0.011 & "key" & 0.010 & "bluetooth" & 0.007 \\ \hline
+	"never" & 0.011 & "sign" & 0.010 & "new" & 0.007 \\ \hline
+	"bluetooth" & 0.010 & "connect" & 0.009 & "connect" & 0.007 \\ \hline
+	"next" & 0.009 & "year" & 0.009 & "product" & 0.006 \\ \hline
+	"time" & 0.009 & "new" & 0.009 & "connection" & 0.006 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}
+\caption{WeMo App 1-Star Reviews}
+\centering
+\label{tab:wemo1StarAPPLDA}
+\begin{tabular}{|c|m{3em}|c|m{3em}|c|m{3em}|} \hline
+	Topic 1 Words &   Topic 1 Magnitude & Topic 2 Words &   Topic 2 Magnitude & Topic 3 Words &   Topic 3 Magnitude \\ \hline \hline
+	"time" & 0.021 & "device" & 0.019 & "device" & 0.028 \\ \hline
+	"device" & 0.015 & "product" & 0.019 & "time" & 0.023 \\ \hline
+	"garbage" & 0.014 & "update" & 0.015 & "switch" & 0.023 \\ \hline
+	"reset" & 0.011 & "wifi" & 0.010 & "connect" & 0.015 \\ \hline
+	"buggy" & 0.009 & "never" & 0.010 & "update" & 0.014 \\ \hline
+	"network" & 0.009 & "worst" & 0.009 & "home" & 0.011 \\ \hline
+	"light" & 0.009 & "terrible" & 0.008 & "plug" & 0.010 \\ \hline
+	"setup" & 0.009 & "belkin" & 0.008 & "light" & 0.009 \\ \hline
+	"wifi" & 0.008 & "plug" & 0.008 & "smart" & 0.008 \\ \hline
+	"find" & 0.008 & "buy" & 0.007 & "turn" & 0.008 \\ \hline
+\end{tabular}
+\end{table}
+

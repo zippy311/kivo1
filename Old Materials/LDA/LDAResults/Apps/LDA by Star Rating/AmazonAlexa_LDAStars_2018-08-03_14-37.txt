@@ -1,0 +1,21 @@
+Amazon Alexa
+1-star reviews: 892
+(0, '0.017*"setup" + 0.015*"screen" + 0.013*"time" + 0.011*"device" + 0.009*"wifi" + 0.008*"blank" + 0.008*"dot" + 0.007*"galaxy" + 0.007*"never" + 0.007*"tried"')
+(1, '0.015*"update" + 0.015*"device" + 0.011*"phone" + 0.011*"home" + 0.010*"slow" + 0.010*"load" + 0.009*"time" + 0.009*"new" + 0.008*"list" + 0.008*"calling"')
+(2, '0.020*"update" + 0.014*"fix" + 0.012*"keep" + 0.012*"crash" + 0.011*"time" + 0.010*"phone" + 0.010*"connect" + 0.009*"setup" + 0.009*"useless" + 0.007*"open"')
+2-star reviews: 394
+(0, '0.016*"device" + 0.012*"keep" + 0.012*"update" + 0.008*"setup" + 0.008*"feature" + 0.008*"android" + 0.008*"music" + 0.006*"new" + 0.006*"change" + 0.006*"play"')
+(1, '0.016*"music" + 0.014*"device" + 0.012*"slow" + 0.012*"phone" + 0.009*"screen" + 0.008*"update" + 0.007*"song" + 0.007*"find" + 0.007*"setup" + 0.006*"search"')
+(2, '0.019*"skill" + 0.012*"time" + 0.009*"slow" + 0.007*"update" + 0.006*"india" + 0.006*"lot" + 0.006*"take" + 0.006*"feature" + 0.005*"version" + 0.005*"music"')
+3-star reviews: 294
+(0, '0.020*"music" + 0.014*"update" + 0.010*"phone" + 0.009*"alarm" + 0.009*"love" + 0.008*"call" + 0.008*"say" + 0.007*"time" + 0.007*"feature" + 0.007*"new"')
+(1, '0.014*"time" + 0.012*"list" + 0.012*"feature" + 0.012*"device" + 0.009*"good" + 0.009*"u" + 0.007*"uk" + 0.007*"available" + 0.006*"please" + 0.006*"skill"')
+(2, '0.010*"slow" + 0.010*"device" + 0.009*"music" + 0.009*"phone" + 0.009*"good" + 0.007*"update" + 0.007*"connect" + 0.007*"issue" + 0.006*"search" + 0.006*"bluetooth"')
+4-star reviews: 173
+(0, '0.022*"great" + 0.013*"new" + 0.013*"better" + 0.012*"time" + 0.010*"play" + 0.009*"update" + 0.008*"star" + 0.008*"awesome" + 0.007*"wifi" + 0.007*"alarm"')
+(1, '0.011*"feature" + 0.010*"calling" + 0.009*"update" + 0.009*"light" + 0.009*"english" + 0.009*"review" + 0.009*"uk" + 0.008*"call" + 0.008*"device" + 0.007*"give"')
+(2, '0.020*"good" + 0.015*"love" + 0.012*"play" + 0.011*"music" + 0.011*"device" + 0.010*"please" + 0.009*"list" + 0.009*"say" + 0.008*"thing" + 0.008*"song"')
+5-star reviews: 335
+(0, '0.087*"love" + 0.018*"better" + 0.014*"device" + 0.012*"everything" + 0.010*"home" + 0.010*"great" + 0.009*"keep" + 0.009*"cool" + 0.007*"call" + 0.007*"music"')
+(1, '0.015*"awesome" + 0.015*"amazing" + 0.014*"device" + 0.009*"much" + 0.009*"list" + 0.009*"know" + 0.008*"home" + 0.008*"india" + 0.008*"help" + 0.007*"life"')
+(2, '0.039*"great" + 0.019*"good" + 0.011*"device" + 0.010*"music" + 0.010*"star" + 0.009*"best" + 0.009*"update" + 0.008*"radio" + 0.008*"phone" + 0.007*"tap"')

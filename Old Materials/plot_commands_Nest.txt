@@ -1,0 +1,58 @@
+
+R version 3.4.2 (2017-09-28) -- "Short Summer"
+Copyright (C) 2017 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> mydata <- read.csv("Nest_Data.csv")
+> head(mydata)
+   Review Length Compound Negative Neutral Positive       Date
+1 review0    491   0.5859    0.076   0.819    0.105 2017-11-15
+2 review1    470  -0.0231    0.109   0.784    0.108 2017-11-16
+3 review2    294   0.5859    0.000   0.912    0.088 2017-11-15
+4 review3    435  -0.1556    0.113   0.783    0.105 2017-11-14
+5 review4    362   0.6610    0.071   0.798    0.131 2017-11-16
+6 review5    126   0.1280    0.209   0.565    0.226 2017-11-14
+> dm <- mydata
+> dm$Date <- as.Date(dm$Date)
+> plot(Length ~ Date, dm, xaxt = "n", main="Nest")
+> axis.Date(1, at=seq(min(dm$Date), max(dm$Date), by="1 mon"), format=("%b %Y"), cex.axis = 0.5, las = 2)
+> plot(Compound ~ Date, dm, xaxt = "n", main="Nest")
+> axis.Date(1, at=seq(min(dm$Date), max(dm$Date), by="1 mon"), format=("%b %Y"), cex.axis = 0.5, las = 2)
+> plot(Negative ~ Date, dm, xaxt = "n", main="Nest")
+> axis.Date(1, at=seq(min(dm$Date), max(dm$Date), by="1 mon"), format=("%b %Y"), cex.axis = 0.5, las = 2)
+> plot(Neutral ~ Date, dm, xaxt = "n", main="Nest")
+> axis.Date(1, at=seq(min(dm$Date), max(dm$Date), by="1 mon"), format=("%b %Y"), cex.axis = 0.5, las = 2)
+> plot(Positive ~ Date, dm, xaxt = "n", main="Nest")
+> axis.Date(1, at=seq(min(dm$Date), max(dm$Date), by="1 mon"), format=("%b %Y"), cex.axis = 0.5, las = 2)
+> plot(Compound ~ Length, dm, main="Nest")
+> plot(Negative ~ Length, dm, main="Nest")
+> plot(Neutral ~ Length, dm, main="Nest")
+> plot(Positive ~ Length, dm, main="Nest")
+> plot(Length ~ Compound, dm, main="Nest")
+> plot(Negative ~ Compound, dm, main="Nest")
+> plot(Neutral ~ Compound, dm, main="Nest")
+> plot(Positive ~ Compound, dm, main="Nest")
+> plot(Length ~ Negative, dm, main="Nest")
+> plot(Compound ~ Negative, dm, main="Nest")
+> plot(Neutral ~ Negative, dm, main="Nest")
+> plot(Positive ~ Negative, dm, main="Nest")
+> plot(Length ~ Neutral, dm, main="Nest")
+> plot(Compound ~ Neutral, dm, main="Nest")
+> plot(Negative ~ Neutral, dm, main="Nest")
+> plot(Positive ~ Neutral, dm, main="Nest")
+> plot(Length ~ Positive, dm, main="Nest")
+> plot(Compound ~ Positive, dm, main="Nest")
+> plot(Negative ~ Positive, dm, main="Nest")
+> plot(Neutral ~ Positive, dm, main="Nest")

@@ -1,0 +1,21 @@
+Nest
+1-star reviews: 567
+(0, '0.013*"time" + 0.011*"notification" + 0.008*"thermostat" + 0.007*"camera" + 0.007*"clip" + 0.007*"home" + 0.006*"phone" + 0.006*"button" + 0.006*"activity" + 0.005*"issue"')
+(1, '0.030*"update" + 0.023*"camera" + 0.012*"video" + 0.012*"new" + 0.011*"screen" + 0.010*"please" + 0.009*"away" + 0.009*"fix" + 0.007*"version" + 0.007*"phone"')
+(2, '0.012*"time" + 0.011*"thermostat" + 0.010*"home" + 0.010*"useless" + 0.008*"away" + 0.007*"phone" + 0.007*"connect" + 0.006*"update" + 0.005*"tried" + 0.005*"control"')
+2-star reviews: 270
+(0, '0.026*"camera" + 0.019*"home" + 0.014*"update" + 0.012*"away" + 0.008*"thermostat" + 0.008*"video" + 0.008*"time" + 0.008*"notification" + 0.007*"screen" + 0.007*"new"')
+(1, '0.010*"notification" + 0.010*"away" + 0.009*"thermostat" + 0.008*"time" + 0.007*"great" + 0.007*"keep" + 0.007*"support" + 0.006*"update" + 0.005*"never" + 0.005*"phone"')
+(2, '0.019*"time" + 0.014*"update" + 0.013*"cam" + 0.012*"camera" + 0.010*"phone" + 0.010*"video" + 0.009*"screen" + 0.009*"back" + 0.008*"new" + 0.008*"notification"')
+3-star reviews: 308
+(0, '0.015*"update" + 0.014*"camera" + 0.012*"time" + 0.011*"android" + 0.009*"button" + 0.009*"fix" + 0.008*"great" + 0.008*"please" + 0.006*"last" + 0.006*"video"')
+(1, '0.030*"away" + 0.025*"home" + 0.016*"thermostat" + 0.013*"mode" + 0.012*"temperature" + 0.009*"location" + 0.007*"switch" + 0.007*"widget" + 0.007*"schedule" + 0.007*"manually"')
+(2, '0.024*"camera" + 0.013*"time" + 0.013*"video" + 0.011*"great" + 0.010*"cam" + 0.010*"update" + 0.010*"notification" + 0.009*"screen" + 0.008*"see" + 0.008*"back"')
+4-star reviews: 212
+(0, '0.017*"time" + 0.017*"great" + 0.012*"temperature" + 0.012*"good" + 0.012*"camera" + 0.011*"home" + 0.010*"wish" + 0.010*"widget" + 0.009*"thermostat" + 0.009*"love"')
+(1, '0.019*"notification" + 0.014*"update" + 0.013*"good" + 0.012*"camera" + 0.011*"please" + 0.010*"day" + 0.009*"setting" + 0.008*"great" + 0.008*"fan" + 0.008*"thermostat"')
+(2, '0.014*"widget" + 0.014*"notification" + 0.013*"home" + 0.013*"great" + 0.013*"camera" + 0.010*"android" + 0.010*"screen" + 0.010*"sound" + 0.009*"see" + 0.009*"update"')
+5-star reviews: 412
+(0, '0.023*"good" + 0.021*"time" + 0.018*"update" + 0.014*"home" + 0.013*"phone" + 0.013*"easy" + 0.009*"thermostat" + 0.007*"fantastic" + 0.007*"thanks" + 0.007*"amazing"')
+(1, '0.024*"great" + 0.020*"love" + 0.019*"thermostat" + 0.013*"video" + 0.013*"update" + 0.013*"awesome" + 0.012*"new" + 0.009*"thank" + 0.009*"camera" + 0.009*"best"')
+(2, '0.049*"great" + 0.039*"love" + 0.023*"easy" + 0.019*"home" + 0.016*"camera" + 0.016*"thermostat" + 0.012*"product" + 0.012*"house" + 0.010*"simple" + 0.010*"nice"')

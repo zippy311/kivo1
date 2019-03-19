@@ -1,4 +1,0 @@
---Thermostat Apps (ecobee, Nest)
-(0, '0.028*"thermostat" + 0.024*"great" + 0.020*"home" + 0.016*"away" + 0.013*"love" + 0.011*"setting" + 0.011*"temperature" + 0.010*"time" + 0.009*"control" + 0.009*"easy"')
-(1, '0.027*"camera" + 0.016*"screen" + 0.014*"update" + 0.014*"time" + 0.013*"video" + 0.011*"cam" + 0.011*"notification" + 0.010*"back" + 0.009*"new" + 0.008*"view"')
-(2, '0.039*"update" + 0.012*"thermostat" + 0.011*"phone" + 0.010*"device" + 0.010*"fix" + 0.009*"latest" + 0.009*"android" + 0.009*"new" + 0.009*"support" + 0.008*"back"')

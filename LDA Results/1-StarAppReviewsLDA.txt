@@ -1,0 +1,51 @@
+Amazon Alexa
+(0, '0.025*"hate" + 0.021*"time" + 0.020*"terrible" + 0.015*"waste" + 0.015*"good" + 0.010*"useful" + 0.009*"slow" + 0.008*"music" + 0.007*"bed" + 0.007*"faltu"')
+(1, '0.016*"useless" + 0.016*"bad" + 0.014*"time" + 0.014*"stupid" + 0.014*"keep" + 0.012*"download" + 0.012*"phone" + 0.011*"open" + 0.011*"worst" + 0.008*"tried"')
+(2, '0.022*"device" + 0.020*"update" + 0.014*"suck" + 0.012*"horrible" + 0.011*"phone" + 0.010*"connect" + 0.008*"wifi" + 0.007*"battery" + 0.007*"home" + 0.007*"new"')
+
+ecobee
+(0, '0.032*"update" + 0.016*"thermostat" + 0.016*"internet" + 0.012*"screen" + 0.012*"connection" + 0.012*"show" + 0.011*"last" + 0.011*"version" + 0.010*"back" + 0.009*"new"')
+(1, '0.031*"update" + 0.013*"thermostat" + 0.011*"geofence" + 0.010*"time" + 0.010*"latest" + 0.009*"internet" + 0.009*"connection" + 0.009*"geofencing" + 0.008*"version" + 0.008*"feature"')
+(2, '0.020*"thermostat" + 0.018*"time" + 0.017*"update" + 0.012*"back" + 0.008*"geofence" + 0.007*"screen" + 0.005*"take" + 0.005*"user" + 0.005*"setting" + 0.005*"smart"')
+
+Google Home
+(0, '0.016*"music" + 0.014*"time" + 0.013*"play" + 0.012*"home" + 0.008*"voice" + 0.007*"keep" + 0.007*"back" + 0.006*"list" + 0.006*"product" + 0.006*"give"')
+(1, '0.039*"chromecast" + 0.031*"device" + 0.023*"update" + 0.019*"home" + 0.019*"connect" + 0.017*"cast" + 0.014*"phone" + 0.013*"wifi" + 0.011*"tv" + 0.011*"time"')
+(2, '0.034*"cast" + 0.015*"phone" + 0.011*"chrome" + 0.010*"casting" + 0.010*"home" + 0.009*"screen" + 0.009*"video" + 0.007*"time" + 0.007*"tv" + 0.007*"chromecast"')
+
+Insteon
+(0, '0.013*"time" + 0.013*"find" + 0.013*"version" + 0.009*"pretty" + 0.009*"money" + 0.009*"new" + 0.009*"slow" + 0.009*"either" + 0.009*"back" + 0.009*"horrible"')
+(1, '0.017*"device" + 0.013*"waste" + 0.013*"new" + 0.013*"money" + 0.009*"issue" + 0.009*"product" + 0.009*"stay" + 0.009*"thermostat" + 0.009*"connect" + 0.009*"awful"')
+(2, '0.011*"hardware" + 0.011*"support" + 0.011*"worst" + 0.011*"let" + 0.008*"point" + 0.007*"almost" + 0.007*"product" + 0.007*"useless" + 0.007*"interface" + 0.007*"android"')
+
+Kevo
+(0, '0.052*"lock" + 0.027*"update" + 0.015*"time" + 0.011*"phone" + 0.010*"key" + 0.008*"last" + 0.007*"take" + 0.007*"device" + 0.007*"product" + 0.007*"fails"')
+(1, '0.025*"door" + 0.023*"phone" + 0.022*"lock" + 0.018*"time" + 0.010*"product" + 0.009*"unlock" + 0.008*"home" + 0.007*"key" + 0.007*"open" + 0.007*"back"')
+(2, '0.030*"lock" + 0.022*"phone" + 0.018*"time" + 0.017*"door" + 0.016*"update" + 0.014*"android" + 0.014*"unlock" + 0.012*"open" + 0.012*"key" + 0.009*"tried"')
+
+Nest
+(0, '0.011*"notification" + 0.008*"phone" + 0.007*"time" + 0.006*"bluetooth" + 0.006*"feed" + 0.006*"live" + 0.006*"video" + 0.005*"service" + 0.005*"temperature" + 0.005*"trying"')
+(1, '0.027*"camera" + 0.014*"time" + 0.013*"update" + 0.011*"video" + 0.008*"day" + 0.006*"see" + 0.006*"take" + 0.006*"phone" + 0.006*"load" + 0.006*"fix"')
+(2, '0.024*"thermostat" + 0.022*"update" + 0.017*"home" + 0.014*"away" + 0.013*"connect" + 0.011*"camera" + 0.009*"time" + 0.008*"fix" + 0.008*"load" + 0.007*"never"')
+
+Philips Hue
+(0, '0.043*"light" + 0.017*"update" + 0.012*"turn" + 0.010*"connection" + 0.010*"bridge" + 0.009*"control" + 0.009*"time" + 0.008*"home" + 0.007*"connect" + 0.006*"fix"')
+(1, '0.028*"bridge" + 0.020*"light" + 0.014*"update" + 0.012*"time" + 0.011*"home" + 0.011*"find" + 0.010*"bulb" + 0.010*"connect" + 0.009*"new" + 0.009*"issue"')
+(2, '0.030*"update" + 0.014*"light" + 0.013*"bridge" + 0.011*"bulb" + 0.009*"connect" + 0.009*"new" + 0.008*"home" + 0.008*"version" + 0.007*"room" + 0.006*"control"')
+
+SmartThings
+(0, '0.056*"phone" + 0.055*"uninstall" + 0.028*"bloatware" + 0.024*"disable" + 0.022*"remove" + 0.020*"delete" + 0.018*"update" + 0.015*"apps" + 0.013*"never" + 0.012*"option"')
+(1, '0.056*"permission" + 0.026*"many" + 0.022*"access" + 0.017*"contact" + 0.008*"without" + 0.008*"suck" + 0.008*"want" + 0.008*"requires" + 0.008*"uninstalled" + 0.007*"give"')
+(2, '0.026*"tv" + 0.020*"device" + 0.019*"connect" + 0.015*"smart" + 0.012*"phone" + 0.012*"smartthings" + 0.010*"new" + 0.010*"time" + 0.010*"update" + 0.008*"control"')
+
+Tile
+(0, '0.044*"phone" + 0.016*"tile" + 0.016*"find" + 0.012*"ring" + 0.011*"key" + 0.011*"useless" + 0.011*"never" + 0.010*"bluetooth" + 0.009*"next" + 0.009*"time"')
+(1, '0.022*"tile" + 0.015*"phone" + 0.014*"battery" + 0.012*"product" + 0.010*"buy" + 0.010*"key" + 0.010*"sign" + 0.009*"connect" + 0.009*"year" + 0.009*"new"')
+(2, '0.016*"time" + 0.012*"key" + 0.011*"phone" + 0.009*"support" + 0.008*"find" + 0.007*"bluetooth" + 0.007*"new" + 0.007*"connect" + 0.006*"product" + 0.006*"connection"')
+
+WeMo
+(0, '0.021*"time" + 0.015*"device" + 0.014*"garbage" + 0.011*"reset" + 0.009*"buggy" + 0.009*"network" + 0.009*"light" + 0.009*"setup" + 0.008*"wifi" + 0.008*"find"')
+(1, '0.019*"device" + 0.019*"product" + 0.015*"update" + 0.010*"wifi" + 0.010*"never" + 0.009*"worst" + 0.008*"terrible" + 0.008*"belkin" + 0.008*"plug" + 0.007*"buy"')
+(2, '0.028*"device" + 0.023*"time" + 0.023*"switch" + 0.015*"connect" + 0.014*"update" + 0.011*"home" + 0.010*"plug" + 0.009*"light" + 0.008*"smart" + 0.008*"turn"')
+
+
